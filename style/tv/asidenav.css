@@ -85,27 +85,27 @@ body .aside-nav {
 .aside-nav:hover {
 	opacity: 1;
 }
-.aside-menu:hover{
+.aside-nav:hover .aside-menu {
 	-webkit-animation: jello 1s;
 	-moz-animation: jello 1s;
 	animation: jello 1s
 }
-.aside-menu:hover ~.menu-first {
+.aside-nav:hover .menu-first {
 	-webkit-transform: translate3d(0, -135%, 0);
 	-moz-transform: translate3d(0, -135%, 0);
 	transform: translate3d(0, -135%, 0)
 }
-.aside-menu:hover ~.menu-second {
-	-webkit-transform: translate3d(120%, -70%, 0);
-	-moz-transform: translate3d(120%, -70%, 0);
-	transform: translate3d(120%, -70%, 0)
+.aside-nav:hover .menu-second {
+	-webkit-transform: translate3d(-120%, -70%, 0);
+	-moz-transform: translate3d(-120%, -70%, 0);
+	transform: translate3d(-120%, -70%, 0)
 }
-.aside-menu:hover ~.menu-third {
-	-webkit-transform: translate3d(120%, 70%, 0);
-	-moz-transform: translate3d(120%, 70%, 0);
-	transform: translate3d(120%, 70%, 0)
+.aside-nav:hover .menu-third {
+	-webkit-transform: translate3d(-120%, 70%, 0);
+	-moz-transform: translate3d(-120%, 70%, 0);
+	transform: translate3d(-120%, 70%, 0)
 }
-.aside-menu:hover ~.menu-fourth {
+.aside-nav:hover .menu-fourth {
 	-webkit-transform: translate3d(0, 135%, 0);
 	-moz-transform: translate3d(0, 135%, 0);
 	transform: translate3d(0, 135%, 0)
