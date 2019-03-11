@@ -16,8 +16,7 @@ jks = [
     { url: "https://jx.biaoge.tv/index.php?url=", title: "通用vip接口②" },
     { url: "http://www.1717yun.com/jx/ty.php?url=", title: "通用vip接口3" },
     { url: "http://vip.scitrimin.com/v5.php?url=", title: "通用vip接口4" },
-    { url: "https://jx.hsir.top/?url=", title: "通用vip接口5" },
-    { url: "http://jx.cesms.cn/?url=", title: "全网 性能不错" },
+    { url: "https://jx.hsir.top/?url=", title: "通用vip接口5" },    
     { url: "https://api.azzc.cn/?url=", title: "玩的嗨——32-若接口失效可反馈！QQ群:340569308" },
     { url: "http://jx.hanximeng.com/api.php?url=", title: "玩的嗨——31-若接口失效可反馈！QQ群:340569308" },
     { url: "http://vip.jlsprh.com/v/4.php?url=", title: "玩的嗨——30-若接口失效可反馈！QQ群:340569308" },
@@ -50,5 +49,5 @@ jks = [
     { url: "http://www.3aym.cn/?url=", title: "玩的嗨——4-若接口失效可反馈！QQ群:340569308" },
     { url: "http://2gty.com/apiurl/yun.php?url=", title: "玩的嗨——3-若接口失效可反馈！QQ群:340569308" },
     { url: "http://jx.anlehe.com/jx.php?url=", title: "玩的嗨——2-若接口失效可反馈！QQ群:340569308" },
-    { url: "http://yun.mt2t.com/yun?url=", title: "玩的嗨——1-若接口失效可反馈！QQ群:340569308" },
+    { url: "http://jx.cesms.cn/?url=", title: "玩的嗨——1-若接口失效可反馈！QQ群:340569308" },
 ];
