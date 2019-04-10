@@ -1,4 +1,4 @@
-window.onload = function () {$("\x23\x7a\x68\x6d\x5f\x64\x69\x76")['\x72\x65\x6d\x6f\x76\x65']();
+window.onload = function () {
     // if (this.localStorage.getItem("wandhiT") == null || this.localStorage.getItem("wandhiT") < 1544630399000) {
         // year();
     // }
