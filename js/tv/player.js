@@ -42,5 +42,5 @@ jks = [
     { url: "http://www.3aym.cn/?url=", title: "玩的嗨——4-若接口失效可反馈！QQ群:340569308" },
     { url: "http://2gty.com/apiurl/yun.php?url=", title: "玩的嗨——3-若接口失效可反馈！QQ群:340569308" },
     { url: "http://jx.anlehe.com/jx.php?url=", title: "玩的嗨——2-若接口失效可反馈！QQ群:340569308" },
-    { url: "http://jx.cesms.cn/?url=", title: "玩的嗨——1-若接口失效可反馈！QQ群:340569308" },
+    { url: "http://vip.wandhi.com/?v= ", title: "玩的嗨——1-若接口失效可反馈！QQ群:340569308" },
 ];
