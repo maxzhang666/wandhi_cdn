@@ -1,0 +1,92 @@
+* { 
+        transition: all 0.25s ease;
+        -webkit-transition: all 0.25s ease;
+        -moz-transition: all 0.25s ease;
+        -o-transition: all 0.25s ease;
+        -ms-transition: all 0.25s ease;
+    }
+    html, body {
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+        position: relative;
+    }
+    body {
+        font: 13px/27px microsoft yahei,'微软雅黑', Arial, sans-serif;
+        padding: 0;
+        margin: 0;
+    }
+    a {
+        text-decoration:none;
+        cursor:pointer
+    }
+    .bimg{
+		background: url('https://i.loli.net/2019/08/23/7Ox4otHM92aCXRu.jpg') center bottom repeat rgb(255, 255, 255);
+	}
+	.nav {
+        position: relative;
+        display: block;
+        border-bottom:1px solid #EDEEF0;
+        height:40px;
+        width: 100%;
+        line-height:37px;
+        overflow: hidden;
+    }
+	.nav a{
+		margin-left:1.5%;
+	}
+    .nav .tips{
+        display:inline-block;
+        float: right;
+    }
+    .container {
+        position: absolute;
+        top: 40px;
+        width: 100%;
+        bottom: 0;
+    }
+    .container iframe{
+        width: 100%;
+        height: 95%;
+    }
+	.footer{
+		display: block;
+		text-align: center;
+		position: absolute;
+		bottom: 0;
+		width: 100%;
+		height:5%;
+	}
+	.lighterF{		
+		color: #FFFFFF;
+		cursor: pointer;    
+		font-family:"Warnes";    
+		text-align: center;
+		text-shadow: 0 0 10px #FFFFFF, 0 0 20px #FFFFFF, 0 0 30px #FFFFFF, 0 0 40px #FF00DE;
+		transition: text-shadow 0.5s ease 0s;    
+	}
+	.lighterF:hover{
+		text-shadow: 0 0 10px #FFFFFF, 0 0 20px #FFFFFF, 0 0 30px #FFFFFF, 0 0 40px #FFFF00, 0 0 70px #FF00DE, 0 0 80px #FF00DE, 0 0 100px #FF00DE;
+	}	
+	.lighterS{		
+		color: #FFFFFF;
+		cursor: pointer;    
+		font-family:"Warnes";    
+		text-align: center;
+		text-shadow: 0 0 10px #FFFFFF, 0 0 15px #FFFFFF, 0 0 30px #FFFFFF, 0 0 40px #00FFFF;
+		transition: text-shadow 0.5s ease 0s;    
+	}
+	.lighterS:hover{
+		text-shadow: 0 0 6px #FFFFFF, 0 0 15px #FFFFFF, 0 0 25px #FFFFFF, 0 0 40px #7FFF00, 0 0 70px #7FFF00, 0 0 80px #7FFF00, 0 0 100px #7FFF00;
+	}	
+	.lighterT{		
+		color: #FFFFFF;
+		cursor: pointer;    
+		font-family:"Warnes";    
+		text-align: center;
+		text-shadow: 0 0 10px #FFFFFF, 0 0 20px #FFFFFF, 0 0 30px #FFFFFF, 0 0 40px #FF00DE;
+		transition: text-shadow 0.5s ease 0s;    
+	}
+	.lighterT:hover{
+		text-shadow: 0 0 10px #FFFFFF, 0 0 20px #FFFFFF, 0 0 30px #FFFFFF, 0 0 40px #00FFFF, 0 0 70px #00FFFF, 0 0 80px #00FFFF, 0 0 100px #00FFFF;
+	}
