@@ -120,7 +120,6 @@ jks = [
     { url: "http://beaacc.com/api.php?url=", title: "玩的嗨——8-若接口失效可反馈！QQ群:340569308" },
     { url: "http://api.bbbbbb.me/jx/?url=", title: "玩的嗨——7-若接口失效可反馈！QQ群:340569308" },
     { url: "http://api.51ckm.com/jx.php?url=", title: "玩的嗨——6-若接口失效可反馈！QQ群:340569308" },
-    { url: "http://wwwhe44.92fz.cn/4.php?pass=1&url=", title: "玩的嗨——5-若接口失效可反馈！QQ群:340569308" },
     { url: "http://www.3aym.cn/?url=", title: "玩的嗨——4-若接口失效可反馈！QQ群:340569308" },
     { url: "http://2gty.com/apiurl/yun.php?url=", title: "玩的嗨——3-若接口失效可反馈！QQ群:340569308" },
     { url: "http://api.sigujx.com/?url=", title: "玩的嗨——2-若接口失效可反馈！QQ群:340569308" },
