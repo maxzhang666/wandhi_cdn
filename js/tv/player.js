@@ -13,7 +13,6 @@ jks = [
     {title:"z8解析",url:"http://www.hoptc.cn/z8/?url="},
     {title: "tv920解析", url: "https://api.tv920.com/vip/?url="},
 	{title:"89免费解析",url:"http://www.ka61b.cn/jx.php?url="},
-	{title: "1907影视", url: "https://z1.m1907.cn/?jx="},
 	{title: "下视频", url: "http://www.xiashipin.net/?url="},
 	{title:"智库解析",url:"http://www.guandianzhiku.com/v/s/?url="},
     {title:"逆天解析",url:"http://nitian9.com/?url="},
@@ -83,7 +82,6 @@ jks = [
     { url: "http://jx.598110.com/duo/index.php?url=", title: "综合线路②" },
     { url: "http://jx.598110.com/index.php?url=", title: "综合线路①" },
     { url: "http://jx.zzit.cc/tv.php?url=", title: "全网二 稳定性未知" },
-    { url: "http://jx.598110.com/index.php?url=", title: "腾讯 别的不能用时用" },
     { url: "http://le.206dy.com/vip.php?url=", title: "优酷 稳定" },
     { url: "http://api.hlglwl.com/jx.php?url=", title: "腾讯 ☆ 爱奇艺 √ 优酷" },
     { url: "http://www.1717yun.com/jx/ty.php?url=", title: "通用vip接口3" },
@@ -125,8 +123,14 @@ jks = [
     { url: "http://api.sigujx.com/?url=", title: "玩的嗨——2-若接口失效可反馈！QQ群:340569308" },
     { url: "http://okjx.cc/?url=", title: "玩的嗨——43-若接口失效可反馈！QQ群:340569308" },
     { url: "http://api.bingdou.net/?url==", title: "玩的嗨——44-若接口失效可反馈！QQ群:340569308" },
-    { url: "http://vip.wandhi.com/?v=", title: "玩的嗨——1-若接口失效可反馈！QQ群:340569308" },
-    
+    { url: "http://vip.wandhi.com/?v=", title: "玩的嗨——45-若接口失效可反馈！QQ群:340569308" },
+    { url: "https://www.1717yun.com/jx/ty.php?url=",title: "玩的嗨——46-若接口失效可反馈！QQ群:340569308" },
+    { url: "https://api.sigujx.com/?url=",title: "玩的嗨——47-若接口失效可反馈！QQ群:340569308" },
+    { url: "https://vip.jaoyun.com/index.php?url=",title: "玩的嗨——48-若接口失效可反馈！QQ群:340569308" },
+    { url: "https://api.bbbbbb.me/jx/?url=",title: "玩的嗨——49-若接口失效可反馈！QQ群:340569308" },
+    { url: "https://jx.wslmf.com/?url=",title: "玩的嗨——50-若接口失效可反馈！QQ群:340569308" },
+    { url: "https://jx.dy-jx.com/?url=",title: "玩的嗨——51-若接口失效可反馈！QQ群:340569308" },
+    { url: "https://vip.mpos.ren/v/?url=",title: "玩的嗨——52-若接口失效可反馈！QQ群:340569308" },    
 ];
 
 
