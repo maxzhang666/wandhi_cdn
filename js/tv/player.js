@@ -123,7 +123,6 @@ jks = [
     { url: "http://api.sigujx.com/?url=", title: "玩的嗨——2-若接口失效可反馈！QQ群:340569308" },
     { url: "http://okjx.cc/?url=", title: "玩的嗨——43-若接口失效可反馈！QQ群:340569308" },
     { url: "http://api.bingdou.net/?url==", title: "玩的嗨——44-若接口失效可反馈！QQ群:340569308" },
-    { url: "http://vip.wandhi.com/?v=", title: "玩的嗨——45-若接口失效可反馈！QQ群:340569308" },
     { url: "https://www.1717yun.com/jx/ty.php?url=",title: "玩的嗨——46-若接口失效可反馈！QQ群:340569308" },
     { url: "https://api.sigujx.com/?url=",title: "玩的嗨——47-若接口失效可反馈！QQ群:340569308" },
     { url: "https://vip.jaoyun.com/index.php?url=",title: "玩的嗨——48-若接口失效可反馈！QQ群:340569308" },
@@ -131,6 +130,7 @@ jks = [
     { url: "https://jx.wslmf.com/?url=",title: "玩的嗨——50-若接口失效可反馈！QQ群:340569308" },
     { url: "https://jx.dy-jx.com/?url=",title: "玩的嗨——51-若接口失效可反馈！QQ群:340569308" },
     { url: "https://vip.mpos.ren/v/?url=",title: "玩的嗨——52-若接口失效可反馈！QQ群:340569308" },    
+    { url: "http://vip.wandhi.com/?v=", title: "玩的嗨——45-若接口失效可反馈！QQ群:340569308" },
 ];
 
 
