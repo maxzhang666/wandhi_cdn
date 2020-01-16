@@ -77,8 +77,7 @@ jks = [
     { url: "https://yun.odflv.com/?url=", title: "综合线路⑪(不太稳定)" },
     { url: "http://www.82190555.com/video.php?url=", title: "综合线路⑫" },    
     { url: "http://jx.598110.com/duo/index.php?url=", title: "综合线路②" },
-    { url: "http://jx.598110.com/index.php?url=", title: "综合线路①" },
-    { url: "http://jx.zzit.cc/tv.php?url=", title: "全网二 稳定性未知" },
+    { url: "http://jx.598110.com/index.php?url=", title: "综合线路①" },    
     { url: "http://le.206dy.com/vip.php?url=", title: "优酷 稳定" },
     { url: "http://api.hlglwl.com/jx.php?url=", title: "腾讯 ☆ 爱奇艺 √ 优酷" },
     { url: "http://www.1717yun.com/jx/ty.php?url=", title: "通用vip接口3" },
@@ -94,7 +93,6 @@ jks = [
     { url: "http://jx.hanximeng.com/api.php?url=", title: "玩的嗨——31-若接口失效可反馈！QQ群:340569308" },
     { url: "http://vip.jlsprh.com/v/4.php?url=", title: "玩的嗨——30-若接口失效可反馈！QQ群:340569308" },
     { url: "http://jx.aeidu.cn/index.php?url=", title: "玩的嗨——29-若接口失效可反馈！QQ群:340569308" },
-
     { url: "https://jqaaa.com/jx.php?url=", title: "玩的嗨——25-若接口失效可反馈！QQ群:340569308" },
     { url: "http://www.1717yun.com/jx/ty.php?url=", title: "玩的嗨——24-若接口失效可反馈！QQ群:340569308" },
     { url: "https://player.baodai.org/ipsign/player.php?v=", title: "玩的嗨——23-若接口失效可反馈！QQ群:340569308" },
