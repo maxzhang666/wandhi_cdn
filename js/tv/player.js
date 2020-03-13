@@ -127,7 +127,11 @@ jks = [
     { url: "https://api.bbbbbb.me/jx/?url=",title: "玩的嗨——49-若接口失效可反馈！QQ群:340569308" },
     { url: "https://jx.wslmf.com/?url=",title: "玩的嗨——50-若接口失效可反馈！QQ群:340569308" },
     { url: "https://api.927jx.com/vip/?url=",title: "玩的嗨——52-若接口失效可反馈！QQ群:340569308" },    
-    { url: "https://z1.m1907.cn/?jx=", title: "玩的嗨——28-若接口失效可反馈！QQ群:340569308" },
+    { url: "https://z1.m1907.cn/?jx=", title: "玩的嗨——28-若接口失效可反馈！QQ群:340569308" },    
+    { url: "http://demo.baores.com/?url", title: "玩的嗨——56-若接口失效可反馈！QQ群:340569308" },
+    { url: "https://jx.70808.net/?url=", title: "玩的嗨——56-若接口失效可反馈！QQ群:340569308" },
+    { url: "https://www.urlkj.com/?url=", title: "玩的嗨——56-若接口失效可反馈！QQ群:340569308" },
+    { url: "http://jx.kukan.vip/?url=", title: "玩的嗨——55-若接口失效可反馈！QQ群:340569308" },
     { url: "https://jiexi.380k.com/?url=", title: "玩的嗨——54-B站解析接口，自行测试" },
     { url: "http://vip.wandhi.com/?v=", title: "玩的嗨——45-若接口失效可反馈！QQ群:340569308" },
 ];
