@@ -125,5 +125,9 @@ jks = [
     { url: "https://www.urlkj.com/?url=", title: "玩的嗨——56-若接口失效可反馈！QQ群:340569308" },
     { url: "http://jx.kukan.vip/?url=", title: "玩的嗨——55-若接口失效可反馈！QQ群:340569308" },
     { url: "https://jiexi.380k.com/?url=", title: "玩的嗨——54-B站解析接口，自行测试" },
+    { url: "https://www.sounm.com/?url=", title: "玩的嗨——57-B站解析接口，自行测试" },
+    { url: "https://api.69ne.com/?url=", title: "玩的嗨——58-B站解析接口，自行测试" },
+    { url: "https://jx.688ing.com/?search=", title: "玩的嗨——59-B站解析接口，自行测试" },
+    { url: "https://jx.shunyiwenxiu.com/?url=", title: "玩的嗨——60-B站解析接口，自行测试" },
     { url: "http://vip.wandhi.com/?v=", title: "玩的嗨——45-若接口失效可反馈！QQ群:340569308" },
 ];
