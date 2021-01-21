@@ -82,7 +82,6 @@ jks = [
     { url: "http://py.ha12.xyz/sos/index.php?url=", title: "玩的嗨——41-若接口失效可反馈！QQ群:340569308" },
     { url: "https://jx.hezeshi.net/ce/jlexi.php?url=", title: "玩的嗨—40-若接口失效可反馈！QQ群:340569308" },
     { url: "https://beaacc.com/api.php?url=", title: "玩的嗨——39-若接口失效可反馈！QQ群:340569308" },
-    { url: "https://cdn.yangju.vip/k/?url=", title: "玩的嗨——38-若接口失效可反馈！QQ群:340569308" },
     { url: "https://www.myxin.top/jx/api/?url=", title: "玩的嗨——37-若接口失效可反馈！QQ群:340569308" },
     { url: "http://jx.cesms.cn/?url=", title: "玩的嗨——36-若接口失效可反馈！QQ群:340569308" },    
     { url: "http://jx.618ge.com/?url=", title: "玩的嗨——34-若接口失效可反馈！QQ群:340569308" },
