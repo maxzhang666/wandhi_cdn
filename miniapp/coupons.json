@@ -7,7 +7,7 @@
             {
                 "name": "外卖重磅红包",
                 "icon": "https://cdn.wandhi.com/miniapp/images/coupon-banner/meituan.png",
-                "bannerPic": "https://www.qrqf9527.com/wp-content/uploads/2021/04/meituana.png",
+                "bannerPic": "https://cdn.wandhi.com/miniapp/images/coupon-banner/meituana.png",
                 "type": 1,
                 "minapp": {
                     "appid": "wxde8ac0a21135c07d",
@@ -17,7 +17,7 @@
             {
                 "name": "商超生鲜红包",
                 "icon": "https://cdn.wandhi.com/miniapp/images/coupon-banner/meituan.png",
-                "bannerPic": "https://www.qrqf9527.com/wp-content/uploads/2021/04/shengxianhb.png",
+                "bannerPic": "https://cdn.wandhi.com/miniapp/images/coupon-banner/shengxianhb.png",
                 "type": 1,
                 "minapp": {
                     "appid": "wxde8ac0a21135c07d",
@@ -27,8 +27,8 @@
             {
                 "name": "美团红包津贴",
                 "type": 1.0,
-                "bannerPic": "https://cdn.wandhi.com/miniapp/images/coupon-banner/ele_guosu.png",
-                "icon": "https://www.qrqf9527.com/wp-content/uploads/2021/04/meituana.png",
+                "bannerPic": "hhttps://cdn.wandhi.com/miniapp/images/coupon-banner/meituan.png",
+                "icon": "https://cdn.wandhi.com/miniapp/images/coupon-banner/meituanb.png",
                 "minapp": {
                     "appid": "wxde8ac0a21135c07d",
                     "path": "index/pages/h5/h5?f_token=0&weburl=https%3A%2F%2Frunion.meituan.com%2Furl%3Fkey%3D86081985a9be798ae7437656dbae0d4d145%26url%3Dhttps%253A%252F%252Fi.meituan.com%252Fawp%252Fhfe%252Fblock%252Fa945391288b790d558b7%252F78716%252Findex.html%253Fappkey%253D86081985a9be798ae7437656dbae0d4d145%253Ayz-48335117-100676-100996%26sid%3Dyz-48335117-100676-100996"
@@ -41,7 +41,7 @@
                     "appid": "wxde8ac0a21135c07d",
                     "path": "dynamic-page/index?scene=fenxiao-third-assist&yaoxin=1&activityId=7&uid=231124425"
                 },
-                "name": "无门槛11111111111",
+                "name": "无门槛",
                 "type": 1.0
             }
         ]
@@ -55,7 +55,7 @@
                 "name": "饿了么天天领",
                 "type": 1.0,
                 "bannerPic": "https://cdn.wandhi.com/miniapp/images/coupon-banner/20201124215133.jpg",
-                "icon": "https://www.qrqf9527.com/wp-content/uploads/2021/04/elmea.png",
+                "icon": "https://cdn.wandhi.com/miniapp/images/icon/ele.png",
                 "minapp": {
                     "appid": "wxece3a9a4c82f58c9",
                     "path": "ele-recommend-price/pages/guest/index.html?chInfo=ch_app_chsub_Wechat&_ltracker_f=tjyj2_app_jgw&inviterId=297321a"
@@ -63,7 +63,7 @@
             },
             {
                 "bannerPic": "https://cdn.wandhi.com/miniapp/images/coupon-banner/ele_banner.png",
-                "icon": "https://www.qrqf9527.com/wp-content/uploads/2021/04/elmeb.png",
+                "icon": "https://cdn.wandhi.com/miniapp/images/icon/ele.png",
                 "minapp": {
                     "appid": "wxece3a9a4c82f58c9",
                     "path": "taoke/pages/shopping-guide/index?scene=sOD0Ipu "
@@ -73,7 +73,7 @@
             },
             {
                 "bannerPic": "https://cdn.wandhi.com/miniapp/images/coupon-banner/elemeitianling.jpg",
-                "icon": "https://www.qrqf9527.com/wp-content/uploads/2021/04/elmec.png",
+                "icon": "https://cdn.wandhi.com/miniapp/images/icon/ele.png",
                 "minapp": {
                     "appid": "wxece3a9a4c82f58c9",
                     "path": "pages/sharePid/web/index?scene=https://s.click.ele.me/2cw9Ipu  "
