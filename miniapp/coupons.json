@@ -27,25 +27,14 @@
             {
                 "name": "美团红包津贴",
                 "type": 1.0,
-                "bannerPic": "https://cdn.wandhi.com/miniapp/images/coupon-banner/meituan.png",
+                "bannerPic": "https://cdn.wandhi.com/miniapp/images/coupon-banner/meituanb.png",
                 "icon": "https://cdn.wandhi.com/miniapp/images/coupon-banner/meituan.png",
                 "minapp": {
                     "appid": "wxde8ac0a21135c07d",
                     "path": "index/pages/h5/h5?f_token=0&weburl=https%3A%2F%2Frunion.meituan.com%2Furl%3Fkey%3D86081985a9be798ae7437656dbae0d4d145%26url%3Dhttps%253A%252F%252Fi.meituan.com%252Fawp%252Fhfe%252Fblock%252Fa945391288b790d558b7%252F78716%252Findex.html%253Fappkey%253D86081985a9be798ae7437656dbae0d4d145%253Ayz-48335117-100676-100996%26sid%3Dyz-48335117-100676-100996"
                 }
             },
-            {
-                "bannerPic": "https://cdn.wandhi.com/miniapp/images/coupon-banner/IMG_7280.JPG",
-                "icon": "https://cdn.wandhi.com/miniapp/images/coupon-banner/meituan.png",
-                "minapp": {
-                    "appid": "wxde8ac0a21135c07d",
-                    "path": "dynamic-page/index?scene=fenxiao-third-assist&yaoxin=1&activityId=7&uid=231124425"
-                },
-                "name": "无门槛111",
-                "type": 1.0
-            }
-        ]
-    },
+
     {
         "_id": "fc5ac5c95fbd0bf9003d301f646b7191",
         "title": "饿了么",
@@ -62,7 +51,7 @@
                 }
             },
             {
-                "bannerPic": "hhttps://cdn.wandhi.com/miniapp/images/coupon-banner/elmeb.png",
+                "bannerPic": "https://cdn.wandhi.com/miniapp/images/coupon-banner/elmeb.png",
                 "icon": "https://cdn.wandhi.com/miniapp/images/icon/ele.png",
                 "minapp": {
                     "appid": "wxece3a9a4c82f58c9",
