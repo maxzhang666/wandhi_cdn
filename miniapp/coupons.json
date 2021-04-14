@@ -27,7 +27,7 @@
             {
                 "name": "美团红包津贴",
                 "type": 1.0,
-                "bannerPic": "hhttps://cdn.wandhi.com/miniapp/images/coupon-banner/meituan.png",
+                "bannerPic": "https://cdn.wandhi.com/miniapp/images/coupon-banner/meituan.png",
                 "icon": "https://cdn.wandhi.com/miniapp/images/coupon-banner/meituanb.png",
                 "minapp": {
                     "appid": "wxde8ac0a21135c07d",
