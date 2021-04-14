@@ -7,11 +7,11 @@
             {
                 "name": "外卖重磅红包",
                 "icon": "https://cdn.wandhi.com/miniapp/images/coupon-banner/meituan.png",
-                "bannerPic": "https://cdn.wandhi.com/miniapp/images/coupon-banner/a89637f2c503ea874117429dc6768e4c.jpg",
+                "bannerPic": "https://www.qrqf9527.com/wp-content/uploads/2021/04/meituanb.png",
                 "type": 1,
                 "minapp": {
                     "appid": "wxde8ac0a21135c07d",
-                    "path": "/index/pages/h5/h5?weburl=https%3A%2F%2Frunion.meituan.com%2Furl%3Fkey%3D6ece6430223030a7bfba6d588ce808d2%26url%3Dhttps%253A%252F%252Fi.meituan.com%252Fawp%252Fhfe%252Fblock%252Fa13b87919a9ace9cfab4%252F89400%252Findex.html%253Fappkey%253D6ece6430223030a7bfba6d588ce808d2%253A1179601966%26sid%3D1179601966&lch=cps:waimai:5:6ece6430223030a7bfba6d588ce808d2:1179601966&f_token=1&f_userId=1"
+                    "path": "/index/pages/h5/h5?f_token=0&weburl=https%3A%2F%2Fact2.meituan.com%2Fclover%2Fpage%2Fadunioncps%2Fshare_coupon_new%3FutmSource%3D38580%26utmMedium%3D83e02fa03c3fb9c9b6a8c98519513670436789ddf65578cc20e4e55bd3ef4799%26version%3D1.0%26activity%3DOwMkGzn6oK"
                 }
             },
             {
