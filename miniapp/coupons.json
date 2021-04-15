@@ -73,31 +73,3 @@
             }
         ]
     },
-    {
-        "_id": "4fb129165fc1ba0b007aa0ac6401caf0",
-        "title": "打车",
-        "icon": "https://cdn.wandhi.com/miniapp/images/icon/ele.png",
-        "coupon": [
-            {
-                "name": "花小猪",
-                "icon": "https://cdn.wandhi.com/miniapp/images/coupon-banner/vip.png",
-                "bannerPic": "https://cdn.wandhi.com/miniapp/images/coupon-banner/huaxiaozhu.jpg",
-                "type": 1,
-                "minapp": {
-                    "appid": "wxd98a20e429ce834b",
-                    "path": "pages/index/index?scene=zxOgqk&f_dpsid=b8984b687b7e44549cb1bcb02049ae8d&entrance_channel=&g_channel=8b658d6ecaa5b8285c9b36f27dc81af1&channel_id=2001001001&share_code=bv0pki3no25cksn458l0&longitude=117.69752502441406&latitude=38.921287536621094&city_id=7"
-                }
-            },
-            {
-                "name": "滴滴打车出行券",
-                "icon": "https://cdn.wandhi.com/miniapp/images/coupon-banner/vip.png",
-                "bannerPic": "https://cdn.wandhi.com/miniapp/images/coupon-banner/didibanner.jpg",
-                "type": 1,
-                "minapp": {
-                    "appid": "wxaf35009675aa0b2a",
-                    "path": "passenger-recommend/views/coupon/index?sharecode=bv0pktcl5g1r04efs3gg&template=1&channel_id=1100000090&scene=14&root_dchn=gq2mZb"
-                }
-            }
-        ]
-    }
-]
