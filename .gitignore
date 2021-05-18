@@ -1,2 +1,4 @@
 ./.idea
-.user.ini
+./idea
+.idea
+.DS_Store
