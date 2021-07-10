@@ -7,42 +7,32 @@
             {
                 "name": "外卖重磅红包",
                 "icon": "https://cdn.wandhi.com/miniapp/images/coupon-banner/meituan.png",
-                "bannerPic": "https://cdn.wandhi.com/miniapp/images/coupon-banner/a89637f2c503ea874117429dc6768e4c.jpg",
+                "bannerPic": "https://cdn.wandhi.com/miniapp/images/coupon-banner/meituana.png",
                 "type": 1,
                 "minapp": {
                     "appid": "wxde8ac0a21135c07d",
-                    "path": "/index/pages/h5/h5?weburl=https%3A%2F%2Frunion.meituan.com%2Furl%3Fkey%3D6ece6430223030a7bfba6d588ce808d2%26url%3Dhttps%253A%252F%252Fi.meituan.com%252Fawp%252Fhfe%252Fblock%252Fa13b87919a9ace9cfab4%252F89400%252Findex.html%253Fappkey%253D6ece6430223030a7bfba6d588ce808d2%253A1179601966%26sid%3D1179601966&lch=cps:waimai:5:6ece6430223030a7bfba6d588ce808d2:1179601966&f_token=1&f_userId=1"
+                    "path": "/index/pages/h5/h5?f_token=0&weburl=https%3A%2F%2Fact2.meituan.com%2Fclover%2Fpage%2Fadunioncps%2Fshare_coupon_new%3FutmSource%3D38580%26utmMedium%3D83e02fa03c3fb9c9b6a8c98519513670436789ddf65578cc20e4e55bd3ef4799%26version%3D1.0%26activity%3DOwMkGzn6oK"
                 }
             },
             {
                 "name": "商超生鲜红包",
                 "icon": "https://cdn.wandhi.com/miniapp/images/coupon-banner/meituan.png",
-                "bannerPic": "https://cdn.wandhi.com/miniapp/images/coupon-banner/2cc7fb2c51daa72501044f9da4170115.jpg",
+                "bannerPic": "https://cdn.wandhi.com/miniapp/images/coupon-banner/shengxianhb.png",
                 "type": 1,
                 "minapp": {
                     "appid": "wxde8ac0a21135c07d",
-                    "path": "/index/pages/h5/h5?weburl=https%3A%2F%2Frunion.meituan.com%2Furl%3Fkey%3D6ece6430223030a7bfba6d588ce808d2%26url%3Dhttps%253A%252F%252Fi.meituan.com%252Fawp%252Fhfe%252Fblock%252Fc9ff59b58f6f5bf385b6%252F94455%252Findex.html%253Fappkey%253D6ece6430223030a7bfba6d588ce808d2%253A1179601966%26sid%3D1179601966&lch=cps:waimai:5:6ece6430223030a7bfba6d588ce808d2:1179601966&f_token=1&f_userId=1"
+                    "path": "/index/pages/h5/h5?f_token=0&weburl=https%3A%2F%2Fact2.meituan.com%2Fclover%2Fpage%2Fadunioncps%2Fshare_coupon_new%3FutmSource%3D38580%26utmMedium%3D83e02fa03c3fb9c9b6a8c98519513670436789ddf65578cc20e4e55bd3ef4799%26version%3D1.0%26activity%3DLj7hGmmCBO"
                 }
             },
             {
                 "name": "美团红包津贴",
                 "type": 1.0,
-                "bannerPic": "https://cdn.wandhi.com/miniapp/images/coupon-banner/ele_guosu.png",
-                "icon": "https://cdn.wandhi.com/miniapp/images/coupon-banner/meituan.png",
-                "minapp": {
-                    "appid": "wx2c348cf579062e56",
-                    "path": "outer_packages/r2xinvite/coupon/coupon?inviteCode=NnOIp-QOs8SiYF1dcSlL5r8phPrCf6qkH7evMyjIoup2NXxNCLYcBbd3bqpv2X2IvJZJ9Is0gRv7Ay3EEdpVI8g9gparlaIvMjiOVlnv0mdl_lgh1PhLOiPNCDJvLjCS2iaknCdyAEbyQrUBxkuPKFTmT8t4J21GLY7CvTCtK0A"
-                }
-            },
-            {
-                "bannerPic": "https://cdn.wandhi.com/miniapp/images/coupon-banner/IMG_7280.JPG",
+                "bannerPic": "https://cdn.wandhi.com/miniapp/images/coupon-banner/meituanb.png",
                 "icon": "https://cdn.wandhi.com/miniapp/images/coupon-banner/meituan.png",
                 "minapp": {
                     "appid": "wxde8ac0a21135c07d",
-                    "path": "dynamic-page/index?scene=fenxiao-third-assist&yaoxin=1&activityId=7&uid=231124425"
-                },
-                "name": "无门槛9元话费券",
-                "type": 1.0
+                    "path": "index/pages/h5/h5?f_token=0&weburl=https%3A%2F%2Frunion.meituan.com%2Furl%3Fkey%3D86081985a9be798ae7437656dbae0d4d145%26url%3Dhttps%253A%252F%252Fi.meituan.com%252Fawp%252Fhfe%252Fblock%252Fa945391288b790d558b7%252F78716%252Findex.html%253Fappkey%253D86081985a9be798ae7437656dbae0d4d145%253Ayz-48335117-100676-100996%26sid%3Dyz-48335117-100676-100996"
+                }
             }
         ]
     },
@@ -54,60 +44,34 @@
             {
                 "name": "饿了么天天领",
                 "type": 1.0,
-                "bannerPic": "https://cdn.wandhi.com/miniapp/images/coupon-banner/20201124215133.jpg",
-                "icon": "https://cdn.wandhi.com/miniapp/images/coupon-banner/ele.png",
+                "bannerPic": "https://cdn.wandhi.com/miniapp/images/coupon-banner/elmea.png",
+                "icon": "https://cdn.wandhi.com/miniapp/images/icon/ele.png",
                 "minapp": {
                     "appid": "wxece3a9a4c82f58c9",
-                    "path": "pages/sharePid/web/index?scene=https://s.click.ele.me/LImiwtu"
+                    "path": "ele-recommend-price/pages/guest/index?inviterId=297321a"
                 }
             },
             {
-                "bannerPic": "https://cdn.wandhi.com/miniapp/images/coupon-banner/ele_banner.png",
-                "icon": "https://cdn.wandhi.com/miniapp/images/coupon-banner/ele.png",
+                "bannerPic": "https://cdn.wandhi.com/miniapp/images/coupon-banner/elmeb.png",
+                "icon": "https://cdn.wandhi.com/miniapp/images/icon/ele.png",
                 "minapp": {
                     "appid": "wxece3a9a4c82f58c9",
-                    "path": "pages/sharePid/web/index?scene=https://s.click.ele.me/atlUttu"
+                    "path": "taoke/pages/shopping-guide/index?scene=sOD0Ipu "
                 },
                 "name": "饿了么霸王餐",
                 "type": 1.0
             },
             {
-                "bannerPic": "https://cdn.wandhi.com/miniapp/images/coupon-banner/elemeitianling.jpg",
-                "icon": "https://cdn.wandhi.com/miniapp/images/coupon-banner/ele.png",
+                "bannerPic": "https://cdn.wandhi.com/miniapp/images/coupon-banner/elmec.png",
+                "icon": "https://cdn.wandhi.com/miniapp/images/icon/ele.png",
                 "minapp": {
                     "appid": "wxece3a9a4c82f58c9",
-                    "path": "ele-recommend-price/pages/guest/index?inviterId=9263ead"
+                    "path": "pages/sharePid/web/index?scene=https://s.click.ele.me/2cw9Ipu  "
                 },
                 "name": "饿了么超大红包",
                 "type": 1.0
             }
         ]
-    },
-    {
-        "_id": "4fb129165fc1ba0b007aa0ac6401caf0",
-        "title": "打车",
-        "icon": "https://cdn.wandhi.com/miniapp/images/icon/ele.png",
-        "coupon": [
-            {
-                "name": "花小猪大额红包",
-                "icon": "https://cdn.wandhi.com/miniapp/images/coupon-banner/vip.png",
-                "bannerPic": "https://cdn.wandhi.com/miniapp/images/coupon-banner/huaxiaozhu.jpg",
-                "type": 1,
-                "minapp": {
-                    "appid": "wxd98a20e429ce834b",
-                    "path": "pages/index/index?scene=zxOgqk&f_dpsid=b8984b687b7e44549cb1bcb02049ae8d&entrance_channel=&g_channel=8b658d6ecaa5b8285c9b36f27dc81af1&channel_id=2001001001&share_code=bv0pki3no25cksn458l0&longitude=117.69752502441406&latitude=38.921287536621094&city_id=7"
-                }
-            },
-            {
-                "name": "滴滴打车出行券",
-                "icon": "https://cdn.wandhi.com/miniapp/images/coupon-banner/vip.png",
-                "bannerPic": "https://cdn.wandhi.com/miniapp/images/coupon-banner/didibanner.jpg",
-                "type": 1,
-                "minapp": {
-                    "appid": "wxaf35009675aa0b2a",
-                    "path": "passenger-recommend/views/coupon/index?sharecode=bv0pktcl5g1r04efs3gg&template=1&channel_id=1100000090&scene=14&root_dchn=gq2mZb"
-                }
-            }
-        ]
     }
+    
 ]

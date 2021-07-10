@@ -1,14 +1,14 @@
 [
     {
         "_id": "2a7b532a5fbce118005238b161a1edd0",
-        "imageUrl": "cloud://test-b602t.7465-test-b602t-1253275554/coupon-banenr/20201124215133.jpg",
-        "path": "/pages/index/index",
-        "title": "【无门槛】美团、饿了么大额满减"
+        "imageUrl": "https://cdn.wandhi.com/miniapp/images/coupon-banner/elmeb.png",
+        "path": "ele-recommend-price/pages/guest/index?inviterId=297321a",
+        "title": "饿了么大额满减"
     },
     {
         "_id": "2a7b532a5fbda5840057a0dd68f6fbfc",
-        "path": "/pages/index/index",
+        "path": "/index/pages/h5/h5?f_token=0&weburl=https%3A%2F%2Fact2.meituan.com%2Fclover%2Fpage%2Fadunioncps%2Fshare_coupon_new%3FutmSource%3D38580%26utmMedium%3D83e02fa03c3fb9c9b6a8c98519513670436789ddf65578cc20e4e55bd3ef4799%26version%3D1.0%26activity%3DOwMkGzn6oK",
         "title": "【每日可领】先领券，再下单，立省一半！",
-        "imageUrl": "cloud://test-b602t.7465-test-b602t-1253275554/coupon-banenr/a89637f2c503ea874117429dc6768e4c.jpg"
+        "imageUrl": "https://cdn.wandhi.com/miniapp/images/coupon-banner/meituana.png"
     }
 ]
