@@ -20,13 +20,9 @@ jks = [
 
     { url: "https://vip.bljiex.com/?v=", title: "接口:BL" },
 
-    { url: "https://qd.hxys.tv/m3u8.php?url=", title: "接口:Mao解析" },
-
     { url: "https://www.pangujiexi.cc/jiexi.php?url=", title: "接口:盘古" },
 
     { url: "https://www.ssamao.com/jx/?url=", title: "接口:SSAMAO" },
-
-    { url: "https://da.wujiys.com/?url=", title: "接口:无极" },
 
     { url: "https://jx.618g.com/?url=", title: "接口:618G" },
 
@@ -60,8 +56,6 @@ jks = [
 
     { url: "https://www.kpezp.cn/jlexi.php?url=", title: "接口:小蒋" },
 
-    { url: "https://jx.yaohuaxuan.com/?url=", title: "接口:小狼" },
-
     { url: "https://vip.kurumit3.top/?v=", title: "接口:智能" },
 
     { url: "https://vip.cjys.top/?url=", title: "接口:星驰" },
@@ -79,37 +73,26 @@ jks = [
     { url: "https://www.1717yun.com/jx/ty.php?url=", title: "接口:17云" },
 
     { url: "https://api.3jx.top/vip/?url=", title: "接口:66" },
-
-    { url: "https://jx.116kan.com/?url=", title: "接口:116" },
-
     { url: "https://vip.66parse.club/?url=", title: "接口:200" },
-
     { url: "https://www.8090g.cn/?url=", title: "接口:8090" },
-
-
     { title: "Hk解析", url: "http://jx.rdhk.net/?v=" },
     { title: "小蒋极致", url: "https://www.kpezp.cn/jlexi.php?url=" },
     { title: "维多解析（超清）", url: "https://jx.ivito.cn/?url=" },
-    { title: "智库解析", url: "http://www.guandianzhiku.com/v/s/?url=" },
     { title: "逆天解析", url: "http://nitian9.com/?url=" },
     { title: "解析系统", url: "https://www.ckmov.vip/api.php?url=" },
     { title: "bl解析", url: "https://vip.bljiex.com/?v=" },
     { title: "凉城解析", url: "http://jx.mw0.cc/?url=" },
     { title: "宏伟解析", url: "http://www.cqhwdnwx.com/jx/?url=" },
-
     { title: "弦易阁", url: "http://jx.hongyishuzhai.com/index.php?url=" },
     { title: "55解析", url: "http://55jx.top/?url=" },
     { title: "19解析", url: "http://19g.top/?url=" },
     { title: "热点解析", url: "http://jx.rdhk.net/?v=" },
     { title: "ha12解析", url: "http://py.ha12.xyz/sos/index.php?url=" },
-
     { url: "http://www.1717yun.com/jx/ty.php?url=", title: "通用vip接口3" },
     { url: "http://py.ha12.xyz/sos/index.php?url=", title: "玩的嗨——41-若接口失效可反馈！QQ群:340569308" },
-
     { url: "https://www.cuan.la/m3u8.php?url=", title: "③号接口-B站专用接口" },
     { url: "https://jx.m3u8.tv/jiexi/?url=", title: "⑤号接口" },
     { url: "http://17kyun.com/api.php?url=", title: "17云" },
-
     { url: "http://www.1717yun.com/jx/ty.php?url=", title: "玩的嗨——24-若接口失效可反馈！QQ群:340569308" },
 
     { url: "http://17kyun.com/api.php?url=", title: "玩的嗨——16-若接口失效可反馈！QQ群:340569308" },
