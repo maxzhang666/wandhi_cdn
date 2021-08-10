@@ -1,7 +1,5 @@
 jks = [
 
-    { url: "https://api.sigujx.com/?url=", title: "快速接口:思古" },
-
     { url: "https://z1.m1907.cn/?jx=", title: "纯净接口:1907" },
 
     { url: "https://vip.parwix.com:4433/player/?url=", title: "B站解析:parwix" },
@@ -22,15 +20,11 @@ jks = [
 
     { url: "https://www.pangujiexi.cc/jiexi.php?url=", title: "接口:盘古" },
 
-    { url: "https://www.ssamao.com/jx/?url=", title: "接口:SSAMAO" },
-
     { url: "https://jx.618g.com/?url=", title: "接口:618G" },
 
     { url: "https://www.ckmov.vip/api.php?url=", title: "接口:ckmov" },
 
     { url: "https://123.1dior.cn/?url=", title: "接口:迪奥" },
-
-    { url: "https://jx.popo520.cn/jiexi/?url=", title: "接口:福星" },
 
     { url: "https://jx.rdhk.net/?v=", title: "接口:RDHK" },
 
@@ -43,8 +37,6 @@ jks = [
     { url: "https://jx.youyitv.com/?url=", title: "接口:九八" },
 
     { url: "https://vip.laobandq.com/jiexi.php?url=", title: "接口:老板" },
-
-    { url: "https://jx.hao-zsj.cn/vip/?url=", title: "接口:乐喵" },
 
     { url: "https://jiexi.janan.net/jiexi/?url=", title: "接口:MUTV" },
     { url: "https://jx.yingxiangbao.cn/vip.php?url=", title: "接口:明日" },
