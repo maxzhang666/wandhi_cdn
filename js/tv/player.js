@@ -96,7 +96,6 @@ jks = [
 
     { url: "https://60jx.com/?url=", title: "通用高清接口①" },
     { url: "https://jsap.attakids.com/?url=", title: "通用高清接口②" },
-    { url: "https://j.zz22x.com/jx/?url=", title: "备用高清接口①" },
     { url: "http://www.ikukk.com/?url=", title: "备用高清接口②" },
     { url: "https://www.cuan.la/m3u8.php?url=", title: "B站番剧接口①" },
     { url: "https://www.1717yun.com/jx/ty.php?url=", title: "芒果视频接口①" },
