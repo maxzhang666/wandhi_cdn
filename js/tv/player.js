@@ -99,5 +99,4 @@ jks = [
     { url: "http://www.ikukk.com/?url=", title: "备用高清接口②" },
     { url: "https://www.cuan.la/m3u8.php?url=", title: "B站番剧接口①" },
     { url: "https://www.1717yun.com/jx/ty.php?url=", title: "芒果视频接口①" },
-    { url: "https://www.5igen.com/dmplayer/player/?url=", title: "武哥" }
 ];
