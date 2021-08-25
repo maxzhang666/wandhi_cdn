@@ -48,7 +48,7 @@ jks = [
 
     { url: "https://www.kpezp.cn/jlexi.php?url=", title: "接口:小蒋" },
 
-    { url: "https://vip.kurumit3.top/?v=", title: "接口:智能" },
+    { url: "http://vip.kurumit3.top/?v=", title: "接口:智能" },
 
     { url: "https://vip.cjys.top/?url=", title: "接口:星驰" },
 
