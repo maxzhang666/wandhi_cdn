@@ -51,8 +51,7 @@ jks = [
     { url: "https://jx.hao-zsj.cn/vip/?url=", title: "接口:乐喵" },
 
     { url: "https://jiexi.janan.net/jiexi/?url=", title: "接口:MUTV" },
-    { url: "https://jx.yingxiangbao.cn/vip.php?url=", title: "接口:明日" },
-    { url: "https://jx.wzslw.cn/?url=", title: "接口:磨菇" },
+    { url: "https://jx.yingxiangbao.cn/vip.php?url=", title: "接口:明日" },    
 
     { url: "https://okjx.cc/?url=", title: "接口:OK" },
 
@@ -68,11 +67,9 @@ jks = [
 
     { url: "http://60jx.com/?url=", title: "接口:星空" },
 
-    { url: "https://api.yueliangjx.com/?url=", title: "接口:月亮" },
+    { url: "https://api.yueliangjx.com/?url=", title: "接口:月亮" },    
 
-    { url: "https://go.yh0523.cn/y.cy?url=", title: "接口:0523" },
-
-    { url: "https://jx.ergan.top/?url=", title: "接口:云端" },
+    
 
     { url: "https://jx.yparse.com/index.php?url=", title: "接口:云析" },
 
@@ -85,16 +82,13 @@ jks = [
     { url: "https://vip.66parse.club/?url=", title: "接口:200" },
 
     { url: "https://www.8090g.cn/?url=", title: "接口:8090" },
-
-
     { title: "Hk解析", url: "http://jx.rdhk.net/?v=" },
     { title: "小蒋极致", url: "https://www.kpezp.cn/jlexi.php?url=" },
     { title: "维多解析（超清）", url: "https://jx.ivito.cn/?url=" },
     { title: "智库解析", url: "http://www.guandianzhiku.com/v/s/?url=" },
     { title: "逆天解析", url: "http://nitian9.com/?url=" },
     { title: "解析系统", url: "https://www.ckmov.vip/api.php?url=" },
-    { title: "bl解析", url: "https://vip.bljiex.com/?v=" },
-    { title: "凉城解析", url: "http://jx.mw0.cc/?url=" },
+    { title: "bl解析", url: "https://vip.bljiex.com/?v=" },    
     { title: "宏伟解析", url: "http://www.cqhwdnwx.com/jx/?url=" },
 
     { title: "弦易阁", url: "http://jx.hongyishuzhai.com/index.php?url=" },
