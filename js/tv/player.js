@@ -39,7 +39,7 @@ jks = [
     { url: "https://vip.laobandq.com/jiexi.php?url=", title: "接口:老板" },
 
     { url: "https://jiexi.janan.net/jiexi/?url=", title: "接口:MUTV" },
-    { url: "https://jx.yingxiangbao.cn/vip.php?url=", title: "接口:明日" },    
+    { url: "https://jx.yingxiangbao.cn/vip.php?url=", title: "接口:明日" },
 
     { url: "https://okjx.cc/?url=", title: "接口:OK" },
 
@@ -53,9 +53,9 @@ jks = [
 
     { url: "http://60jx.com/?url=", title: "接口:星空" },
 
-    { url: "https://api.yueliangjx.com/?url=", title: "接口:月亮" },    
+    { url: "https://api.yueliangjx.com/?url=", title: "接口:月亮" },
 
-    
+
 
     { url: "https://jx.yparse.com/index.php?url=", title: "接口:云析" },
 
@@ -69,7 +69,7 @@ jks = [
     { title: "维多解析（超清）", url: "https://jx.ivito.cn/?url=" },
     { title: "逆天解析", url: "http://nitian9.com/?url=" },
     { title: "解析系统", url: "https://www.ckmov.vip/api.php?url=" },
-    { title: "bl解析", url: "https://vip.bljiex.com/?v=" },    
+    { title: "bl解析", url: "https://vip.bljiex.com/?v=" },
     { title: "宏伟解析", url: "http://www.cqhwdnwx.com/jx/?url=" },
     { title: "弦易阁", url: "http://jx.hongyishuzhai.com/index.php?url=" },
     { title: "55解析", url: "http://55jx.top/?url=" },
@@ -81,17 +81,15 @@ jks = [
     { url: "https://www.cuan.la/m3u8.php?url=", title: "③号接口-B站专用接口" },
     { url: "https://jx.m3u8.tv/jiexi/?url=", title: "⑤号接口" },
     { url: "http://17kyun.com/api.php?url=", title: "17云" },
-    { url: "http://www.1717yun.com/jx/ty.php?url=", title: "玩的嗨——24-若接口失效可反馈！QQ群:340569308" },
-
     { url: "http://17kyun.com/api.php?url=", title: "玩的嗨——16-若接口失效可反馈！QQ群:340569308" },
     { url: "https://www.1717yun.com/jx/ty.php?url=", title: "玩的嗨——46-若接口失效可反馈！QQ群:340569308" },
     { url: "https://z1.m1907.cn/?jx=", title: "玩的嗨——28-若接口失效可反馈！QQ群:340569308" },
     { url: "https://jx.70808.net/?url=", title: "玩的嗨——56-若接口失效可反馈！QQ群:340569308" },
-    { url: "http://vip.wandhi.com/?v=", title: "玩的嗨——45-若接口失效可反馈！QQ群:340569308" },
-
-
+    { url: "https://www.8090.la/8090/?url=", title: "全能vip接口②" },
+    { url: "https://test.rongxingvr.com/test/?url=", title: "全能vip接口⑤" },
     { url: "https://www.cuan.la/m3u8.php?url=", title: "B站番剧接口①" },
     { url: "https://60jx.com/?url=", title: "通用高清接口①" },
     { url: "http://www.ikukk.com/?url=", title: "备用高清接口②" },
     { url: "https://jsap.attakids.com/?url=", title: "通用高清接口②" },
+    { url: "http://vip.wandhi.com/?v=", title: "玩的嗨——45-若接口失效可反馈！QQ群:340569308" },
 ];
