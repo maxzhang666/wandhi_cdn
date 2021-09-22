@@ -4,29 +4,17 @@ jks = [
 
     { url: "https://vip.parwix.com:4433/player/?url=", title: "B站解析:parwix" },
 
-    { url: "https://jsap.attakids.com/?url=", title: "快速接口:百度" },
-
-    { url: "https://www.cuan.la/m3u8.php?url=", title: "B站解析:Mao" },
-
     { url: "https://www.ckplayer.vip/jiexi/?url=", title: "接口:Ckplayer" },
 
     { url: "https://api.leduotv.com/wp-api/ifr.php?isDp=1&vid=", title: "接口:乐多资源" },
 
     { url: "https://ckmov.ccyjjd.com/ckmov/?url=", title: "接口:ccyjjd" },
 
-    { url: "https://jx.m3u8.tv/jiexi/?url=", title: "接口:M3U8" },
-
-    { url: "https://vip.bljiex.com/?v=", title: "接口:BL" },
-
     { url: "https://www.pangujiexi.cc/jiexi.php?url=", title: "接口:盘古" },
 
     { url: "https://jx.618g.com/?url=", title: "接口:618G" },
 
-    { url: "https://www.ckmov.vip/api.php?url=", title: "接口:ckmov" },
-
     { url: "https://123.1dior.cn/?url=", title: "接口:迪奥" },
-
-    { url: "https://jx.rdhk.net/?v=", title: "接口:RDHK" },
 
     { url: "https://www.h8jx.com/jiexi.php?url=", title: "接口:H8" },
 
@@ -43,15 +31,9 @@ jks = [
 
     { url: "https://okjx.cc/?url=", title: "接口:OK" },
 
-    { url: "https://jx.ivito.cn/?url=", title: "接口:维多" },
-
-    { url: "https://www.kpezp.cn/jlexi.php?url=", title: "接口:小蒋" },
-
     { url: "http://vip.kurumit3.top/?v=", title: "接口:智能" },
 
     { url: "https://vip.cjys.top/?url=", title: "接口:星驰" },
-
-    { url: "http://60jx.com/?url=", title: "接口:星空" },
 
     { url: "https://api.yueliangjx.com/?url=", title: "接口:月亮" },
 
@@ -64,7 +46,6 @@ jks = [
     { url: "https://api.3jx.top/vip/?url=", title: "接口:66" },
     { url: "https://vip.66parse.club/?url=", title: "接口:200" },
     { url: "https://www.8090g.cn/?url=", title: "接口:8090" },
-    { title: "Hk解析", url: "http://jx.rdhk.net/?v=" },
     { title: "小蒋极致", url: "https://www.kpezp.cn/jlexi.php?url=" },
     { title: "维多解析（超清）", url: "https://jx.ivito.cn/?url=" },
     { title: "逆天解析", url: "http://nitian9.com/?url=" },
@@ -90,6 +71,5 @@ jks = [
     { url: "https://www.cuan.la/m3u8.php?url=", title: "B站番剧接口①" },
     { url: "https://60jx.com/?url=", title: "通用高清接口①" },
     { url: "http://www.ikukk.com/?url=", title: "备用高清接口②" },
-    { url: "https://jsap.attakids.com/?url=", title: "通用高清接口②" },
     { url: "http://vip.wandhi.com/?v=", title: "玩的嗨——45-若接口失效可反馈！QQ群:340569308" },
 ];
