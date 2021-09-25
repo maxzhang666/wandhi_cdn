@@ -12,7 +12,6 @@ jks = [
 
     { url: "https://www.pangujiexi.cc/jiexi.php?url=", title: "接口:盘古" },
 
-    { url: "https://jx.618g.com/?url=", title: "接口:618G" },
 
     { url: "https://123.1dior.cn/?url=", title: "接口:迪奥" },
 
@@ -31,7 +30,6 @@ jks = [
 
     { url: "https://okjx.cc/?url=", title: "接口:OK" },
 
-    { url: "http://vip.kurumit3.top/?v=", title: "接口:智能" },
 
     { url: "https://vip.cjys.top/?url=", title: "接口:星驰" },
 
@@ -43,7 +41,6 @@ jks = [
 
     { url: "https://www.1717yun.com/jx/ty.php?url=", title: "接口:17云" },
 
-    { url: "https://api.3jx.top/vip/?url=", title: "接口:66" },
     { url: "https://vip.66parse.club/?url=", title: "接口:200" },
     { url: "https://www.8090g.cn/?url=", title: "接口:8090" },
     { title: "小蒋极致", url: "https://www.kpezp.cn/jlexi.php?url=" },
