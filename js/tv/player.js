@@ -29,14 +29,7 @@ jks = [
     { url: "https://jx.yingxiangbao.cn/vip.php?url=", title: "接口:明日" },
 
     { url: "https://okjx.cc/?url=", title: "接口:OK" },
-
-
     { url: "https://vip.cjys.top/?url=", title: "接口:星驰" },
-
-    { url: "https://api.yueliangjx.com/?url=", title: "接口:月亮" },
-
-
-
     { url: "https://jx.yparse.com/index.php?url=", title: "接口:云析" },
 
     { url: "https://www.1717yun.com/jx/ty.php?url=", title: "接口:17云" },
@@ -48,7 +41,6 @@ jks = [
     { title: "逆天解析", url: "http://nitian9.com/?url=" },
     { title: "解析系统", url: "https://www.ckmov.vip/api.php?url=" },
     { title: "bl解析", url: "https://vip.bljiex.com/?v=" },
-    { title: "宏伟解析", url: "http://www.cqhwdnwx.com/jx/?url=" },
     { title: "弦易阁", url: "http://jx.hongyishuzhai.com/index.php?url=" },
     { title: "55解析", url: "http://55jx.top/?url=" },
     { title: "19解析", url: "http://19g.top/?url=" },
