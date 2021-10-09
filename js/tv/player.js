@@ -60,5 +60,8 @@ jks = [
     { url: "https://www.cuan.la/m3u8.php?url=", title: "B站番剧接口①" },
     { url: "https://60jx.com/?url=", title: "通用高清接口①" },
     { url: "http://www.ikukk.com/?url=", title: "备用高清接口②" },
+    { title: "1717", url: "https://www.1717yun.com/1717yun/?url=" },
+    { title: "盘古", url: "https://www.pangujiexi.com/jiexi/?url=" },
+    { title: "eptept", url: "https://dmjx.m3u8.tv/?url=" },
     { url: "http://vip.wandhi.com/?v=", title: "玩的嗨——45-若接口失效可反馈！QQ群:340569308" },
 ];
