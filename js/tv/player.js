@@ -63,5 +63,6 @@ jks = [
     { title: "1717", url: "https://www.1717yun.com/1717yun/?url=" },
     { title: "盘古", url: "https://www.pangujiexi.com/jiexi/?url=" },
     { title: "eptept", url: "https://dmjx.m3u8.tv/?url=" },
+    { title: "BL", url: "https://vip.bljiex.com/?v=" },
     { url: "http://vip.wandhi.com/?v=", title: "玩的嗨——45-若接口失效可反馈！QQ群:340569308" },
 ];
