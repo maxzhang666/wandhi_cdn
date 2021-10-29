@@ -5,9 +5,6 @@ jks = [
     { url: "https://vip.parwix.com:4433/player/?url=", title: "B站解析:parwix" },
 
     { url: "https://www.ckplayer.vip/jiexi/?url=", title: "接口:Ckplayer" },
-
-    { url: "https://api.leduotv.com/wp-api/ifr.php?isDp=1&vid=", title: "接口:乐多资源" },
-
     { url: "https://ckmov.ccyjjd.com/ckmov/?url=", title: "接口:ccyjjd" },
 
     { url: "https://www.pangujiexi.cc/jiexi.php?url=", title: "接口:盘古" },
