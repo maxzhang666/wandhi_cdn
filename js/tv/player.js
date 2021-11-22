@@ -25,8 +25,7 @@ jks = [
     { url: "https://jiexi.janan.net/jiexi/?url=", title: "接口:MUTV" },
     { url: "https://jx.yingxiangbao.cn/vip.php?url=", title: "接口:明日" },
 
-    { url: "https://okjx.cc/?url=", title: "接口:OK" },
-    { url: "https://vip.cjys.top/?url=", title: "接口:星驰" },
+    { url: "https://okjx.cc/?url=", title: "接口:OK" },    
     { url: "https://jx.yparse.com/index.php?url=", title: "接口:云析" },
 
     { url: "https://www.1717yun.com/jx/ty.php?url=", title: "接口:17云" },
@@ -38,13 +37,12 @@ jks = [
     { title: "逆天解析", url: "http://nitian9.com/?url=" },
     { title: "解析系统", url: "https://www.ckmov.vip/api.php?url=" },
     { title: "bl解析", url: "https://vip.bljiex.com/?v=" },
-    { title: "弦易阁", url: "http://jx.hongyishuzhai.com/index.php?url=" },
+    
     { title: "55解析", url: "http://55jx.top/?url=" },
     { title: "19解析", url: "http://19g.top/?url=" },
     { title: "热点解析", url: "http://jx.rdhk.net/?v=" },
-    { title: "ha12解析", url: "http://py.ha12.xyz/sos/index.php?url=" },
-    { url: "http://www.1717yun.com/jx/ty.php?url=", title: "通用vip接口3" },
-    { url: "http://py.ha12.xyz/sos/index.php?url=", title: "玩的嗨——41-若接口失效可反馈！QQ群:340569308" },
+    
+    { url: "http://www.1717yun.com/jx/ty.php?url=", title: "通用vip接口3" },    
     { url: "https://www.cuan.la/m3u8.php?url=", title: "③号接口-B站专用接口" },
     { url: "https://jx.m3u8.tv/jiexi/?url=", title: "⑤号接口" },
     { url: "http://17kyun.com/api.php?url=", title: "17云" },
@@ -61,5 +59,14 @@ jks = [
     { title: "盘古", url: "https://www.pangujiexi.com/jiexi/?url=" },
     { title: "eptept", url: "https://dmjx.m3u8.tv/?url=" },
     { title: "BL", url: "https://vip.bljiex.com/?v=" },
-    { url: "http://vip.wandhi.com/?v=", title: "玩的嗨——45-若接口失效可反馈！QQ群:340569308" },
+    { url: "https://api.okjx.cc:3389/jx.php?url=", title: "OK解析" },
+    { url: "https://m2090.com/?url=", title: "m2090" },
+    { url: "ttps://www.mtosz.com/m3u8.php?url=", title: "Mao解析" },
+    { url: "https://jx.aidouer.net/?url=", title: "" },
+    { url: "https://jx.ppflv.com/?url=", title: "云解析" },    
+    { url: "https://www.qianyicp.com/vip/vip_g.php?url=", title: "久播解析" },
+    { url: "ttps://jx.xmflv.com/?url=", title: "虾米解析" },
+    { url: "https://jx.parwix.com:4433/player/analysis.php?v=", title: "Parwix解析1" },
+    { url: "https://vip.parwix.com:4433/player/?url=", title: "Parwix解析2" },
+    { url: "http://vip.wandhi.com/?v=", title: "玩的嗨——45-若接口失效可反馈！QQ群:340569308" },   
 ];
