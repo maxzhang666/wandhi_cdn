@@ -15,15 +15,9 @@ jks = [
     { url: "https://www.h8jx.com/jiexi.php?url=", title: "接口:H8" },
 
     { url: "https://api.jiexi.la/?url=", title: "接口:解析la" },
-
-    { url: "https://jx.jiubojx.com/vip.php?url=", title: "接口:久播" },
-
-    { url: "https://jx.youyitv.com/?url=", title: "接口:九八" },
-
     { url: "https://vip.laobandq.com/jiexi.php?url=", title: "接口:老板" },
 
-    { url: "https://jiexi.janan.net/jiexi/?url=", title: "接口:MUTV" },
-    { url: "https://jx.yingxiangbao.cn/vip.php?url=", title: "接口:明日" },
+    { url: "https://jiexi.janan.net/jiexi/?url=", title: "接口:MUTV" },    
 
     { url: "https://okjx.cc/?url=", title: "接口:OK" },    
     { url: "https://jx.yparse.com/index.php?url=", title: "接口:云析" },
@@ -63,8 +57,7 @@ jks = [
     { url: "https://m2090.com/?url=", title: "m2090" },
     { url: "https://www.mtosz.com/m3u8.php?url=", title: "Mao解析" },
     { url: "https://jx.aidouer.net/?url=", title: "" },
-    { url: "https://jx.ppflv.com/?url=", title: "云解析" },    
-    { url: "https://www.qianyicp.com/vip/vip_g.php?url=", title: "久播解析" },
+    { url: "https://jx.ppflv.com/?url=", title: "云解析" },        
     { url: "https://jx.xmflv.com/?url=", title: "虾米解析" },
     { url: "https://jx.parwix.com:4433/player/analysis.php?v=", title: "Parwix解析1" },
     { url: "https://vip.parwix.com:4433/player/?url=", title: "Parwix解析2" },
