@@ -1,17 +1,11 @@
 jks = [
 
     { url: "https://z1.m1907.cn/?jx=", title: "纯净接口:1907" },
-
     { url: "https://vip.parwix.com:4433/player/?url=", title: "B站解析:parwix" },
-
     { url: "https://www.ckplayer.vip/jiexi/?url=", title: "接口:Ckplayer" },
     { url: "https://ckmov.ccyjjd.com/ckmov/?url=", title: "接口:ccyjjd" },
-
     { url: "https://www.pangujiexi.cc/jiexi.php?url=", title: "接口:盘古" },
-
-
     { url: "https://123.1dior.cn/?url=", title: "接口:迪奥" },
-
     { url: "https://www.h8jx.com/jiexi.php?url=", title: "接口:H8" },
     { url: "https://api.jiexi.la/?url=", title: "接口:解析la" },
     { url: "https://vip.laobandq.com/jiexi.php?url=", title: "接口:老板" },
@@ -21,15 +15,10 @@ jks = [
     { url: "https://www.1717yun.com/jx/ty.php?url=", title: "接口:17云" },
     { url: "https://www.8090g.cn/?url=", title: "接口:8090" },
     { title: "小蒋极致", url: "https://www.kpezp.cn/jlexi.php?url=" },
-    { title: "维多解析（超清）", url: "http://jx.ivito.cn/?url=" },
-    { title: "逆天解析", url: "http://nitian9.com/?url=" },
+    { title: "维多解析（超清）", url: "http://jx.ivito.cn/?url=" },    
     { title: "解析系统", url: "https://www.ckmov.vip/api.php?url=" },
     { title: "bl解析", url: "https://vip.bljiex.com/?v=" },
-
-    { title: "55解析", url: "http://55jx.top/?url=" },
-    { title: "19解析", url: "http://19g.top/?url=" },
     { title: "热点解析", url: "http://jx.rdhk.net/?v=" },
-
     { url: "http://www.1717yun.com/jx/ty.php?url=", title: "通用vip接口3" },
     { url: "https://www.cuan.la/m3u8.php?url=", title: "③号接口-B站专用接口" },
     { url: "https://jx.m3u8.tv/jiexi/?url=", title: "⑤号接口" },
