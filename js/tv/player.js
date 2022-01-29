@@ -9,13 +9,9 @@ jks = [
     { url: "https://www.h8jx.com/jiexi.php?url=", title: "接口:H8" },
     { url: "https://api.jiexi.la/?url=", title: "接口:解析la" },
     { url: "https://vip.laobandq.com/jiexi.php?url=", title: "接口:老板" },
-<<<<<<< Updated upstream
-    { url: "https://jiexi.janan.net/jiexi/?url=", title: "接口:MUTV" },
-=======
 
     { url: "https://jiexi.janan.net/jiexi/?url=", title: "接口:MUTV" },
 
->>>>>>> Stashed changes
     { url: "https://okjx.cc/?url=", title: "接口:OK" },
     { url: "https://jx.yparse.com/index.php?url=", title: "接口:云析" },
     { url: "https://www.1717yun.com/jx/ty.php?url=", title: "接口:17云" },
@@ -24,15 +20,10 @@ jks = [
     { title: "维多解析（超清）", url: "http://jx.ivito.cn/?url=" },
     { title: "解析系统", url: "https://www.ckmov.vip/api.php?url=" },
     { title: "bl解析", url: "https://vip.bljiex.com/?v=" },
-<<<<<<< Updated upstream
     { title: "热点解析", url: "http://jx.rdhk.net/?v=" },
-=======
-
     { title: "55解析", url: "http://55jx.top/?url=" },
     { title: "19解析", url: "http://19g.top/?url=" },
     { title: "热点解析", url: "http://jx.rdhk.net/?v=" },
-
->>>>>>> Stashed changes
     { url: "http://www.1717yun.com/jx/ty.php?url=", title: "通用vip接口3" },
     { url: "https://www.cuan.la/m3u8.php?url=", title: "③号接口-B站专用接口" },
     { url: "https://jx.m3u8.tv/jiexi/?url=", title: "⑤号接口" },
