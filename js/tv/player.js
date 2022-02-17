@@ -21,8 +21,7 @@ jks = [
     { title: "解析系统", url: "https://www.ckmov.vip/api.php?url=" },
     { title: "bl解析", url: "https://vip.bljiex.com/?v=" },
     { title: "热点解析", url: "http://jx.rdhk.net/?v=" },
-    { title: "55解析", url: "http://55jx.top/?url=" },
-    { title: "19解析", url: "http://19g.top/?url=" },
+    
     { title: "热点解析", url: "http://jx.rdhk.net/?v=" },
     { url: "http://www.1717yun.com/jx/ty.php?url=", title: "通用vip接口3" },
     { url: "https://www.cuan.la/m3u8.php?url=", title: "③号接口-B站专用接口" },
@@ -50,7 +49,7 @@ jks = [
     { url: "https://vip.parwix.com:4433/player/?url=", title: "Parwix解析2" },
     { url: "https://jx.aidouer.net/?url=", title: "爱豆解析" },
     { title: "OK解析2", "url": "https://okjx.cc/?url=" },
-    { title: "2k", "url": "https://vip.2ktvb.com/player/?url=" },
+    
     { title: "Parwix3", "url": "https://vip.parwix.com:4433/player/?url=" },
     { title: "mmkv", "url": "https://jx.mmkv.cn/tv.php?url=" },
     { title: "play", "url": "https://www.playm3u8.cn/jiexi.php?url=" },
@@ -59,7 +58,6 @@ jks = [
     { title: "administratorw", "url": "https://www.administratorw.com/video.php?url=" },
     { title: "CHok", "url": "https://www.gai4.com/?url=" },
     { title: "mw0", "url": "https://jx.mw0.cc/?url=" },
-    { title: "ergan", "url": "https://jx.ergan.top/?url=" },
-    { title: "云", "url": "https://jx.yunboys.cn/?url=" },
+    { title: "ergan", "url": "https://jx.ergan.top/?url=" },    
     { url: "http://vip.wandhi.com/?v=", title: "玩的嗨——45-若接口失效可反馈！QQ群:340569308" },
 ];
