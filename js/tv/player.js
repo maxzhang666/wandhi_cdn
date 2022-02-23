@@ -24,7 +24,7 @@ jks = [
     
     { title: "热点解析", url: "http://jx.rdhk.net/?v=" },
     { url: "http://www.1717yun.com/jx/ty.php?url=", title: "通用vip接口3" },
-    { url: "https://www.cuan.la/m3u8.php?url=", title: "③号接口-B站专用接口" },
+    
     { url: "https://jx.m3u8.tv/jiexi/?url=", title: "⑤号接口" },
     { url: "http://17kyun.com/api.php?url=", title: "17云" },
     { url: "http://17kyun.com/api.php?url=", title: "玩的嗨——16-若接口失效可反馈！QQ群:340569308" },
@@ -32,7 +32,7 @@ jks = [
     { url: "https://z1.m1907.cn/?jx=", title: "玩的嗨——28-若接口失效可反馈！QQ群:340569308" },
     { url: "https://jx.70808.net/?url=", title: "玩的嗨——56-若接口失效可反馈！QQ群:340569308" },
     { url: "https://www.8090.la/8090/?url=", title: "全能vip接口②" },
-    { url: "https://www.cuan.la/m3u8.php?url=", title: "B站番剧接口①" },
+    
     { url: "https://60jx.com/?url=", title: "通用高清接口①" },
     { url: "http://www.ikukk.com/?url=", title: "备用高清接口②" },
     { title: "1717", url: "https://www.1717yun.com/1717yun/?url=" },
