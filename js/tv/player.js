@@ -21,10 +21,10 @@ jks = [
     { title: "解析系统", url: "https://www.ckmov.vip/api.php?url=" },
     { title: "bl解析", url: "https://vip.bljiex.com/?v=" },
     { title: "热点解析", url: "http://jx.rdhk.net/?v=" },
-    
+
     { title: "热点解析", url: "http://jx.rdhk.net/?v=" },
     { url: "http://www.1717yun.com/jx/ty.php?url=", title: "通用vip接口3" },
-    
+
     { url: "https://jx.m3u8.tv/jiexi/?url=", title: "⑤号接口" },
     { url: "http://17kyun.com/api.php?url=", title: "17云" },
     { url: "http://17kyun.com/api.php?url=", title: "玩的嗨——16-若接口失效可反馈！QQ群:340569308" },
@@ -32,7 +32,7 @@ jks = [
     { url: "https://z1.m1907.cn/?jx=", title: "玩的嗨——28-若接口失效可反馈！QQ群:340569308" },
     { url: "https://jx.70808.net/?url=", title: "玩的嗨——56-若接口失效可反馈！QQ群:340569308" },
     { url: "https://www.8090.la/8090/?url=", title: "全能vip接口②" },
-    
+
     { url: "https://60jx.com/?url=", title: "通用高清接口①" },
     { url: "http://www.ikukk.com/?url=", title: "备用高清接口②" },
     { title: "1717", url: "https://www.1717yun.com/1717yun/?url=" },
@@ -42,14 +42,13 @@ jks = [
     { url: "https://api.okjx.cc:3389/jx.php?url=", title: "OK解析" },
     { url: "https://m2090.com/?url=", title: "m2090" },
     { url: "https://www.mtosz.com/m3u8.php?url=", title: "Mao解析" },
-    { url: "https://jx.aidouer.net/?url=", title: "爱豆解析" },
     { url: "http://jx.ppflv.com/?url=", title: "云解析" },
     { url: "https://jx.xmflv.com/?url=", title: "虾米解析" },
     { url: "https://jx.parwix.com:4433/player/analysis.php?v=", title: "Parwix解析1" },
     { url: "https://vip.parwix.com:4433/player/?url=", title: "Parwix解析2" },
     { url: "https://jx.aidouer.net/?url=", title: "爱豆解析" },
     { title: "OK解析2", "url": "https://okjx.cc/?url=" },
-    
+
     { title: "Parwix3", "url": "https://vip.parwix.com:4433/player/?url=" },
     { title: "mmkv", "url": "https://jx.mmkv.cn/tv.php?url=" },
     { title: "play", "url": "https://www.playm3u8.cn/jiexi.php?url=" },
@@ -58,6 +57,10 @@ jks = [
     { title: "administratorw", "url": "https://www.administratorw.com/video.php?url=" },
     { title: "CHok", "url": "https://www.gai4.com/?url=" },
     { title: "mw0", "url": "https://jx.mw0.cc/?url=" },
-    { title: "ergan", "url": "https://jx.ergan.top/?url=" },    
+    { title: "ergan", "url": "https://jx.ergan.top/?url=" },
+    { title: "TV解析[腾讯 (芒果)]", "url": "https://jx.m3u8.tv/jiexi/?url=" },
+    { title: "天翼解析[腾讯 (芒果) (B站)]", "url": "https://jsap.attakids.com/?url=" },
+    { title: "爱解析[腾讯 (芒果)]", "url": "https://jiexi.t7g.cn/?url=" },
+    { title: "云博解析", "url": "https://jx.yunboys.cn/?url=" },
     { url: "http://vip.wandhi.com/?v=", title: "玩的嗨——45-若接口失效可反馈！QQ群:340569308" },
 ];
