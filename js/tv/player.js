@@ -14,7 +14,6 @@ jks = [
 
     { url: "https://okjx.cc/?url=", title: "接口:OK" },
     { url: "https://jx.yparse.com/index.php?url=", title: "接口:云析" },
-    { url: "https://www.1717yun.com/jx/ty.php?url=", title: "接口:17云" },
     { url: "https://www.8090g.cn/?url=", title: "接口:8090" },
     { title: "小蒋极致", url: "https://www.kpezp.cn/jlexi.php?url=" },
     { title: "维多解析（超清）", url: "http://jx.ivito.cn/?url=" },
@@ -61,6 +60,6 @@ jks = [
     { title: "TV解析[腾讯 (芒果)]", "url": "https://jx.m3u8.tv/jiexi/?url=" },
     { title: "天翼解析[腾讯 (芒果) (B站)]", "url": "https://jsap.attakids.com/?url=" },
     { title: "爱解析[腾讯 (芒果)]", "url": "https://jiexi.t7g.cn/?url=" },
-    { title: "云博解析", "url": "https://jx.yunboys.cn/?url=" },
+    
     { url: "http://vip.wandhi.com/?v=", title: "玩的嗨——45-若接口失效可反馈！QQ群:340569308" },
 ];
