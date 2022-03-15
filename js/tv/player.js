@@ -3,7 +3,6 @@ jks = [
     { url: "https://z1.m1907.cn/?jx=", title: "纯净接口:1907" },
     { url: "https://vip.parwix.com:4433/player/?url=", title: "B站解析:parwix" },
     { url: "https://www.ckplayer.vip/jiexi/?url=", title: "接口:Ckplayer" },
-    { url: "https://ckmov.ccyjjd.com/ckmov/?url=", title: "接口:ccyjjd" },
     { url: "https://www.pangujiexi.cc/jiexi.php?url=", title: "接口:盘古" },
     { url: "https://123.1dior.cn/?url=", title: "接口:迪奥" },
     { url: "https://www.h8jx.com/jiexi.php?url=", title: "接口:H8" },
