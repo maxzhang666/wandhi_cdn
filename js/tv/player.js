@@ -13,8 +13,7 @@ jks = [
 
     { url: "https://okjx.cc/?url=", title: "接口:OK" },
     { url: "https://jx.yparse.com/index.php?url=", title: "接口:云析" },
-    { url: "https://www.8090g.cn/?url=", title: "接口:8090" },
-    { title: "小蒋极致", url: "https://www.kpezp.cn/jlexi.php?url=" },
+    { url: "https://www.8090g.cn/?url=", title: "接口:8090" },    
     { title: "维多解析（超清）", url: "http://jx.ivito.cn/?url=" },
     { title: "解析系统", url: "https://www.ckmov.vip/api.php?url=" },
     { title: "bl解析", url: "https://vip.bljiex.com/?v=" },
@@ -26,8 +25,7 @@ jks = [
     { url: "https://jx.70808.net/?url=", title: "玩的嗨——56-若接口失效可反馈！QQ群:340569308" },
     { url: "https://www.8090.la/8090/?url=", title: "全能vip接口②" },
 
-    { url: "https://60jx.com/?url=", title: "通用高清接口①" },
-    { url: "http://www.ikukk.com/?url=", title: "备用高清接口②" },
+    { url: "https://60jx.com/?url=", title: "通用高清接口①" },    
     { title: "1717", url: "https://www.1717yun.com/1717yun/?url=" },
     { title: "盘古", url: "https://www.pangujiexi.com/jiexi/?url=" },
     { title: "eptept", url: "https://dmjx.m3u8.tv/?url=" },
