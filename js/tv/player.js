@@ -45,7 +45,7 @@ jks = [
     { title: "TV解析[腾讯 (芒果)]", "url": "https://jx.m3u8.tv/jiexi/?url=" },
     { url: "http://vip.wandhi.com/?v=", title: "玩的嗨——45-若接口失效可反馈！QQ群:340569308" },
     { title: "冰豆", "url": "https://api.qianqi.net/vip/?url=" },
-    { title: "百域", "url": "https://jx.618g.com/?url=" },
+    
     { title: "大幕", "url": "https://jx.52damu.com/dmjx/jiexi.php?url=" },
     { title: "解析", "url": "https://ckmov.ccyjjd.com/ckmov/?url=" },
     { title: "LE", "url": "https://lecurl.cn/?url=" },
