@@ -1,6 +1,4 @@
-jks = [
-
-    { url: "https://z1.m1907.cn/?jx=", title: "纯净接口:1907" },
+jks = [    
     { url: "https://vip.parwix.com:4433/player/?url=", title: "B站解析:parwix" },
     { url: "https://www.ckplayer.vip/jiexi/?url=", title: "接口:Ckplayer" },
     { url: "https://www.pangujiexi.cc/jiexi.php?url=", title: "接口:盘古" },
@@ -56,4 +54,8 @@ jks = [
     { title: "思古3", "url": "https://jsap.attakids.com/?url=" },    
     { title: "听乐", "url": "https://jx.dj6u.com/?url=" },
     { title: "云端", "url": "https://sb.5gseo.net/?url=" },
+
+    {title:'618解析','url':'https://jx.618g.com/?url='},    
+    {title:'973973',url:'https://jx.973973.xyz/?url=',},
+    {title:'9dan',url:'https://y.9dan.cc/?v=',},
 ];
