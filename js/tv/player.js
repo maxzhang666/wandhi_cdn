@@ -1,4 +1,4 @@
-jks = [    
+jks = [
     { url: "https://vip.parwix.com:4433/player/?url=", title: "B站解析:parwix" },
     { url: "https://www.ckplayer.vip/jiexi/?url=", title: "接口:Ckplayer" },
     { url: "https://www.pangujiexi.cc/jiexi.php?url=", title: "接口:盘古" },
@@ -13,13 +13,13 @@ jks = [
     { title: "维多解析（超清）", url: "http://jx.ivito.cn/?url=" },
     { title: "解析系统", url: "https://www.ckmov.vip/api.php?url=" },
     { title: "bl解析", url: "https://vip.bljiex.com/?v=" },
-    
-    { title: "bl解析", url: "https://vip.bljiex.com/?v=" },    
+
+    { title: "bl解析", url: "https://vip.bljiex.com/?v=" },
     { url: "http://www.1717yun.com/jx/ty.php?url=", title: "通用vip接口3" },
     { url: "https://jx.m3u8.tv/jiexi/?url=", title: "⑤号接口" },
     { url: "https://www.1717yun.com/jx/ty.php?url=", title: "玩的嗨——46-若接口失效可反馈！QQ群:340569308" },
-    { url: "https://z1.m1907.cn/?jx=", title: "玩的嗨——28-若接口失效可反馈！QQ群:340569308" },    
-    { url: "https://www.8090.la/8090/?url=", title: "全能vip接口②" },    
+    { url: "https://z1.m1907.cn/?jx=", title: "玩的嗨——28-若接口失效可反馈！QQ群:340569308" },
+    { url: "https://www.8090.la/8090/?url=", title: "全能vip接口②" },
     { title: "1717", url: "https://www.1717yun.com/1717yun/?url=" },
     { title: "盘古", url: "https://www.pangujiexi.com/jiexi/?url=" },
     { title: "eptept", url: "https://dmjx.m3u8.tv/?url=" },
@@ -43,19 +43,20 @@ jks = [
     { title: "TV解析[腾讯 (芒果)]", "url": "https://jx.m3u8.tv/jiexi/?url=" },
     { url: "http://vip.wandhi.com/?v=", title: "玩的嗨——45-若接口失效可反馈！QQ群:340569308" },
     { title: "冰豆", "url": "https://api.qianqi.net/vip/?url=" },
-    
-    { title: "大幕", "url": "https://jx.52damu.com/dmjx/jiexi.php?url=" },
+
+    { title: "JY", "url": "https://jx.playerjy.com/?url=" },
     { title: "解析", "url": "https://ckmov.ccyjjd.com/ckmov/?url=" },
     { title: "LE", "url": "https://lecurl.cn/?url=" },
     { title: "乐多", "url": "https://api.leduotv.com/wp-api/ifr.php?isDp=1&vid=" },
     { title: "诺诺", "url": "https://www.ckmov.com/?url=" },
-    { title: "诺讯", "url": "https://www.nxflv.com/?url=" },    
-    { title: "人人迷", "url": "https://jx.blbo.cc:4433/?url=" },    
-    { title: "思古3", "url": "https://jsap.attakids.com/?url=" },    
+    { title: "诺讯", "url": "https://www.nxflv.com/?url=" },
+    { title: "人人迷", "url": "https://jx.blbo.cc:4433/?url=" },
+    { title: "思古3", "url": "https://jsap.attakids.com/?url=" },
     { title: "听乐", "url": "https://jx.dj6u.com/?url=" },
     { title: "云端", "url": "https://sb.5gseo.net/?url=" },
+    { title: "七哥", "url": "https://jx.mmkv.cn/tv.php?url=" },
+    { title: '618解析', 'url': 'https://jx.618g.com/?url=' },
+    { title: '973973', url: 'https://jx.973973.xyz/?url=', },
+    { title: '9dan', url: 'https://y.9dan.cc/?v=', },
 
-    {title:'618解析','url':'https://jx.618g.com/?url='},    
-    {title:'973973',url:'https://jx.973973.xyz/?url=',},
-    {title:'9dan',url:'https://y.9dan.cc/?v=',},
 ];
