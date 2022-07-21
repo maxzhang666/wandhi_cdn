@@ -1,5 +1,5 @@
 jks = [
-    { url: "https://vip.parwix.com:4433/player/?url=", title: "B站解析:parwix" },
+    { url: "https://jx.bozrc.com:4433/player/?url=", title: "B站解析:parwix" },
     { url: "https://www.ckplayer.vip/jiexi/?url=", title: "接口:Ckplayer" },
     { url: "https://www.pangujiexi.cc/jiexi.php?url=", title: "接口:盘古" },
     { url: "https://123.1dior.cn/?url=", title: "接口:迪奥" },
