@@ -42,11 +42,9 @@ jks = [
     { title: "冰豆", "url": "https://api.qianqi.net/vip/?url=" },
 
     { title: "JY", "url": "https://jx.playerjy.com/?url=" },    
-    { title: "LE", "url": "https://lecurl.cn/?url=" },
-    { title: "乐多", "url": "https://api.leduotv.com/wp-api/ifr.php?isDp=1&vid=" },
+    { title: "LE", "url": "https://lecurl.cn/?url=" },    
     
-    { title: "诺讯", "url": "https://www.nxflv.com/?url=" },
-    { title: "人人迷", "url": "https://jx.blbo.cc:4433/?url=" },
+    { title: "诺讯", "url": "https://www.nxflv.com/?url=" },    
     { title: "思古3", "url": "https://jsap.attakids.com/?url=" },
     { title: "听乐", "url": "https://jx.dj6u.com/?url=" },
     { title: "云端", "url": "https://sb.5gseo.net/?url=" },
