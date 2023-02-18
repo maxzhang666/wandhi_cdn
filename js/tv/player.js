@@ -1,6 +1,6 @@
 jks = [
     { url: "https://www.ckplayer.vip/jiexi/?url=", title: "接口:Ckplayer" },
-    { url: "https://www.pangujiexi.cc/jiexi.php?url=", title: "接口:盘古" },    
+    { url: "https://www.pangujiexi.cc/jiexi.php?url=", title: "接口:盘古" },
     { url: "https://www.h8jx.com/jiexi.php?url=", title: "接口:H8" },
     { url: "https://api.jiexi.la/?url=", title: "接口:解析la" },
     { url: "https://vip.laobandq.com/jiexi.php?url=", title: "接口:老板" },
@@ -11,6 +11,13 @@ jks = [
     { title: "维多解析（超清）", url: "http://jx.ivito.cn/?url=" },
     { title: "解析系统", url: "https://www.ckmov.vip/api.php?url=" },
     { title: "bl解析", url: "https://vip.bljiex.com/?v=" },
+    { title: "ckmov", url: "https://www.ckmov.com/?url=" },
+    { title: "诺讯智能", url: "https://www.nxflv.com/?url=" },
+    { title: "ckplayer", url: " https://www.ckplayer.vip/jiexi/?url=" },
+
+    { title: "qqwtt", url: "https://jx.qqwtt.com/?url=" },
+    { title: "剖元", url: "https://www.pouyun.com/?url=" },
+
 
     { title: "bl解析", url: "https://vip.bljiex.com/?v=" },
     { url: "http://www.1717yun.com/jx/ty.php?url=", title: "通用vip接口3" },
@@ -28,7 +35,7 @@ jks = [
     { url: "http://jx.ppflv.com/?url=", title: "云解析" },
     { url: "https://jx.xmflv.com/?url=", title: "虾米解析" },
     { url: "https://jx.aidouer.net/?url=", title: "爱豆解析" },
-    { title: "OK解析2", "url": "https://okjx.cc/?url=" },    
+    { title: "OK解析2", "url": "https://okjx.cc/?url=" },
     { title: "play", "url": "https://www.playm3u8.cn/jiexi.php?url=" },
     { title: "夜幕", "url": "https://www.yemu.xyz/?url=" },
     { title: "0523", "url": "https://go.yh0523.cn/y.cy?url=" },
@@ -37,11 +44,11 @@ jks = [
     { url: "http://vip.wandhi.com/?v=", title: "玩的嗨——45-若接口失效可反馈！QQ群:340569308" },
     { title: "冰豆", "url": "https://api.qianqi.net/vip/?url=" },
 
-    { title: "JY", "url": "https://jx.playerjy.com/?url=" },    
-    { title: "LE", "url": "https://lecurl.cn/?url=" },    
-    
-    { title: "诺讯", "url": "https://www.nxflv.com/?url=" },        
-    { title: "七哥", "url": "https://jx.mmkv.cn/tv.php?url=" },    
+    { title: "JY", "url": "https://jx.playerjy.com/?url=" },
+    { title: "LE", "url": "https://lecurl.cn/?url=" },
+
+    { title: "诺讯", "url": "https://www.nxflv.com/?url=" },
+    { title: "七哥", "url": "https://jx.mmkv.cn/tv.php?url=" },
     { title: '973973', url: 'https://jx.973973.xyz/?url=', },
     { title: 'JY解析', url: 'https://jx.we-vip.com/?url=', },
 
