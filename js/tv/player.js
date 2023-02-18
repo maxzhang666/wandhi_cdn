@@ -1,5 +1,4 @@
 jks = [
-    { url: "https://jx.bozrc.com:4433/player/?url=", title: "B站解析:parwix" },
     { url: "https://www.ckplayer.vip/jiexi/?url=", title: "接口:Ckplayer" },
     { url: "https://www.pangujiexi.cc/jiexi.php?url=", title: "接口:盘古" },    
     { url: "https://www.h8jx.com/jiexi.php?url=", title: "接口:H8" },
@@ -28,14 +27,12 @@ jks = [
     { url: "https://www.mtosz.com/m3u8.php?url=", title: "Mao解析" },
     { url: "http://jx.ppflv.com/?url=", title: "云解析" },
     { url: "https://jx.xmflv.com/?url=", title: "虾米解析" },
-    { url: "https://jx.bozrc.com:4433/player/?url=", title: "Parwix解析1" },    
     { url: "https://jx.aidouer.net/?url=", title: "爱豆解析" },
     { title: "OK解析2", "url": "https://okjx.cc/?url=" },    
     { title: "play", "url": "https://www.playm3u8.cn/jiexi.php?url=" },
     { title: "夜幕", "url": "https://www.yemu.xyz/?url=" },
     { title: "0523", "url": "https://go.yh0523.cn/y.cy?url=" },
     { title: "administratorw", "url": "https://www.administratorw.com/video.php?url=" },
-    { title: "CHok", "url": "https://www.gai4.com/?url=" },    
     { title: "TV解析[腾讯 (芒果)]", "url": "https://jx.m3u8.tv/jiexi/?url=" },
     { url: "http://vip.wandhi.com/?v=", title: "玩的嗨——45-若接口失效可反馈！QQ群:340569308" },
     { title: "冰豆", "url": "https://api.qianqi.net/vip/?url=" },
@@ -44,10 +41,8 @@ jks = [
     { title: "LE", "url": "https://lecurl.cn/?url=" },    
     
     { title: "诺讯", "url": "https://www.nxflv.com/?url=" },        
-    { title: "听乐", "url": "https://jx.dj6u.com/?url=" },    
     { title: "七哥", "url": "https://jx.mmkv.cn/tv.php?url=" },    
     { title: '973973', url: 'https://jx.973973.xyz/?url=', },
-    { title: '9dan', url: 'https://y.9dan.cc/?v=', },
     { title: 'JY解析', url: 'https://jx.we-vip.com/?url=', },
 
 ];
