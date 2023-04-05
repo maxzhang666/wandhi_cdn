@@ -41,7 +41,7 @@ jks = [
     { title: "LE", "url": "https://lecurl.cn/?url=" },
 
     { title: "诺讯", "url": "https://www.nxflv.com/?url=" },
-    { title: "七哥", "url": "https://jx.mmkv.cn/tv.php?url=" },
+    { title: "七哥", "url": "https://jx.nnxv.cn/tv.php?url=" },
     { title: '973973', url: 'https://jx.973973.xyz/?url=', },
     { title: 'JY解析', url: 'https://jx.we-vip.com/?url=', },
     { title: "⑵号解析接口", url: "https://jqaaa.com/jx.php?url=" },
