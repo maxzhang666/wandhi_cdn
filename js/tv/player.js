@@ -49,5 +49,6 @@ jks = [
     { title: '973973', url: 'https://jx.973973.xyz/?url=', },
     { title: '9dan', url: 'https://y.9dan.cc/?v=', },
     { title: 'JY解析', url: 'https://jx.we-vip.com/?url=', },
+    { title: 'ZN解析', url: 'https://player.iizny.com/?url=', },
 
 ];
