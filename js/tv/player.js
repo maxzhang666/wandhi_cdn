@@ -34,22 +34,23 @@ jks = [
     { title: "夜幕", "url": "https://www.yemu.xyz/?url=" },
     { title: "administratorw", "url": "https://www.administratorw.com/video.php?url=" },
     { title: "TV解析[腾讯 (芒果)]", "url": "https://jx.m3u8.tv/jiexi/?url=" },
-    { url: "http://vip.wandhi.com/?v=", title: "玩的嗨——45-若接口失效可反馈！QQ群:340569308" },
     { title: "冰豆", "url": "https://api.qianqi.net/vip/?url=" },
-
+    
     { title: "JY", "url": "https://jx.playerjy.com/?url=" },
     { title: "LE", "url": "https://lecurl.cn/?url=" },
-
+    
     { title: "诺讯", "url": "https://www.nxflv.com/?url=" },
     { title: "七哥", "url": "https://jx.nnxv.cn/tv.php?url=" },
     { title: '973973', url: 'https://jx.973973.xyz/?url=', },
     { title: 'JY解析', url: 'https://jx.we-vip.com/?url=', },
     { title: 'ZN解析', url: 'https://player.iizny.com/?url=', },
-
+    
     { title: "⑵号解析接口", url: "https://jqaaa.com/jx.php?url=" },
     { title: "⑸号解析接口", url: "https://www.8090g.cn/jiexi/?url=" },
     { title: "8090g", url: "https://www.8090g.cn/?url=" },
     { title: "人人解析", url: "https://vip.mpos.ren/v/?url=" },
     { title: "百域阁", url: "http://api.baiyug.vip/index.php?url=" },
     { title: "1717云", url: "http://www.1717yun.com/jx/vip/index.php?url=" },
+    { url: "https://movie.heheda.top/?v=", title: "风影阁" },
+    { url: "http://vip.wandhi.com/?v=", title: "玩的嗨——45-若接口失效可反馈！QQ群:340569308" },
 ];
