@@ -54,5 +54,4 @@ jks = [
     { title: "GF一颗菠菜提供-A", url: "https://www.ckmov.com/?url=" },
     { title: "GF一颗菠菜提供-B", url: "https://jx.m3u8.tv/jiexi/?url=" },
     { title: "GF一颗菠菜提供-D", url: "https://www.h8jx.com/jiexi.php?url=" },
-    { title: "GF一颗菠菜提供-C-无广告", url: "https://jx.iztyy.com/svip/?url=" },
 ];
