@@ -53,5 +53,4 @@ jks = [
     { url: "http://vip.wandhi.com/?v=", title: "玩的嗨——45-若接口失效可反馈！QQ群:340569308" },
     { title: "GF一颗菠菜提供-A", url: "https://www.ckmov.com/?url=" },
     { title: "GF一颗菠菜提供-B", url: "https://jx.m3u8.tv/jiexi/?url=" },
-    { title: "GF一颗菠菜提供-D", url: "https://www.h8jx.com/jiexi.php?url=" },
 ];
