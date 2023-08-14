@@ -1,10 +1,7 @@
 jks = [
     { url: "https://www.ckplayer.vip/jiexi/?url=", title: "接口:Ckplayer" },
-    { url: "https://www.pangujiexi.cc/jiexi.php?url=", title: "接口:盘古" },
-    { url: "https://api.jiexi.la/?url=", title: "接口:解析la" },
     { url: "https://jx.yparse.com/index.php?url=", title: "接口:云析" },
     { url: "https://www.8090g.cn/?url=", title: "接口:8090" },
-    { title: "诺讯智能", url: "https://www.nxflv.com/?url=" },
     { title: "ckplayer", url: " https://www.ckplayer.vip/jiexi/?url=" },
 
     { title: "qqwtt", url: "https://jx.qqwtt.com/?url=" },
@@ -12,7 +9,6 @@ jks = [
     { url: "https://jx.m3u8.tv/jiexi/?url=", title: "⑤号接口" },
     { url: "https://z1.m1907.top/?jx=", title: "玩的嗨——28-若接口失效可反馈！QQ群:340569308" },
     { url: "https://www.8090.la/8090/?url=", title: "全能vip接口②" },
-    { title: "1717", url: "https://www.1717yun.com/1717yun/?url=" },
     { title: "盘古", url: "https://www.pangujiexi.com/jiexi/?url=" },
     { title: "eptept", url: "https://dmjx.m3u8.tv/?url=" },
     { title: "BL", url: "https://vip.bljiex.com/?v=" },
@@ -26,15 +22,12 @@ jks = [
 
     { title: "JY", "url": "https://jx.playerjy.com/?url=" },
 
-    { title: "诺讯", "url": "https://www.nxflv.com/?url=" },
-    { title: "七哥", "url": "https://jx.nnxv.cn/tv.php?url=" },
     { title: 'JY解析', url: 'https://jx.we-vip.com/?url=', },
 
-    { title: "⑵号解析接口", url: "https://jqaaa.com/jx.php?url=" },
     { title: "⑸号解析接口", url: "https://www.8090g.cn/jiexi/?url=" },
     { title: "8090g", url: "https://www.8090g.cn/?url=" },
     { title: "人人解析", url: "https://vip.mpos.ren/v/?url=" },
-    { title: "1717云", url: "http://www.1717yun.com/jx/vip/index.php?url=" },
+    { title: "百域阁", url: "http://api.baiyug.vip/index.php?url=" },
     { url: "https://movie.heheda.top/?v=", title: "风影阁" },
     { url: "http://vip.wandhi.com/?v=", title: "玩的嗨——45-若接口失效可反馈！QQ群:340569308" },
     { title: "GF一颗菠菜提供-A", url: "https://www.ckmov.com/?url=" },
