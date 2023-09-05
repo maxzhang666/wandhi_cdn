@@ -42,5 +42,6 @@ jks = [
 
     {title: "8090",  url: "https://www.8090g.cn/?url="},
     {title: "qianqi",  url: "https://api.qianqi.net/vip/?url="},
+    {title: "样图",  url: "https://jx.yangtu.top/?url="},
     {title: "CK",  url: "https://www.ckplayer.vip/jiexi/?url="},
 ];
