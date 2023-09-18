@@ -29,16 +29,12 @@ jks = [
     { title: "人人解析", url: "https://vip.mpos.ren/v/?url=" },
     { url: "https://movie.heheda.top/?v=", title: "风影阁" },
     { url: "http://vip.wandhi.com/?v=", title: "玩的嗨——45-若接口失效可反馈！QQ群:340569308" },
-    { title: "GF一颗菠菜提供-A", url: "https://www.ckmov.com/?url=" },
 
     {title: "综合/B站",  url: "https://jx.jsonplayer.com/player/?url="},
     {title: "Player-JY",  url: "https://jx.playerjy.com/?url="},
     {title: "虾米",  url: "https://jx.xmflv.com/?url="},
     {title: "yparse", "type": "1,2", url: "https://jx.yparse.com/index.php?url="},
     {title: "m1907", "type": "1,2", url: "https://im1907.top/?jx="},
-
-    {title: "猪蹄",  url: "https://jx.iztyy.com/Bei/?url="},
-
 
     {title: "8090",  url: "https://www.8090g.cn/?url="},
     {title: "qianqi",  url: "https://api.qianqi.net/vip/?url="},
