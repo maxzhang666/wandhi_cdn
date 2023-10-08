@@ -16,7 +16,6 @@ jks = [
     { url: "https://jx.xmflv.com/?url=", title: "虾米解析" },
     { title: "play", url: "https://www.playm3u8.cn/jiexi.php?url=" },
     { title: "夜幕", url: "https://www.yemu.xyz/?url=" },
-    { title: "administratorw", url: "https://www.administratorw.com/video.php?url=" },
     { title: "TV解析[腾讯 (芒果)]", url: "https://jx.m3u8.tv/jiexi/?url=" },
     { title: "冰豆", url: "https://api.qianqi.net/vip/?url=" },
 
