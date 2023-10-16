@@ -24,7 +24,6 @@ jks = [
     { title: 'JY解析', url: 'https://jx.we-vip.com/?url=', },
 
     { title: "⑸号解析接口", url: "https://www.8090g.cn/jiexi/?url=" },
-    { title: "8090g", url: "https://www.8090g.cn/?url=" },
     { title: "人人解析", url: "https://vip.mpos.ren/v/?url=" },
     { url: "https://movie.heheda.top/?v=", title: "风影阁" },
     { url: "http://vip.wandhi.com/?v=", title: "玩的嗨——45-若接口失效可反馈！QQ群:340569308" },
