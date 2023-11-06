@@ -12,7 +12,6 @@ jks = [
     { title: "盘古", url: "https://www.pangujiexi.com/jiexi/?url=" },
     { title: "eptept", url: "https://dmjx.m3u8.tv/?url=" },
     { title: "BL", url: "https://vip.bljiex.com/?v=" },
-    { title: "BL2", url: "https://svip.bljiex.cc/?v=" },
     { url: "https://www.mtosz.com/m3u8.php?url=", title: "Mao解析" },
     { url: "https://jx.xmflv.com/?url=", title: "虾米解析" },
     { title: "play", url: "https://www.playm3u8.cn/jiexi.php?url=" },
