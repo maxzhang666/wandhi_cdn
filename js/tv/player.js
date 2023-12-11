@@ -13,7 +13,6 @@ jks = [
     { title: "eptept", url: "https://dmjx.m3u8.tv/?url=" },
     { title: "BL", url: "https://vip.bljiex.com/?v=" },
     { url: "https://www.mtosz.com/m3u8.php?url=", title: "Mao解析" },
-    { url: "https://jx.xmflv.com/?url=", title: "虾米解析" },
     { title: "play", url: "https://www.playm3u8.cn/jiexi.php?url=" },
     { title: "夜幕", url: "https://www.yemu.xyz/?url=" },
     { title: "TV解析[腾讯 (芒果)]", url: "https://jx.m3u8.tv/jiexi/?url=" },
@@ -30,7 +29,8 @@ jks = [
 
     {title: "综合/B站",  url: "https://jx.jsonplayer.com/player/?url="},
     {title: "Player-JY",  url: "https://jx.playerjy.com/?url="},
-    {title: "虾米",  url: "https://jx.xmflv.com/?url="},
+    {title: "虾米1",  url: "https://jx.xmflv.com/?url="},
+    {title: "虾米2",  url: "https://jx.xmflv.cc/?url="},
     {title: "yparse", "type": "1,2", url: "https://jx.yparse.com/index.php?url="},
     {title: "m1907", "type": "1,2", url: "https://im1907.top/?jx="},
 
