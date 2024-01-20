@@ -5,6 +5,7 @@
 # https://gitlab.com/gitlab-org/gitlab/-/blob/master/lib/gitlab/ci/templates/npm.gitlab-ci.yml
 
 publish:
+  images: node
   tags: [saas-linux-medium-amd64]
   stage: deploy
 
