@@ -1,0 +1,12 @@
+lockfileVersion: '6.0'
+
+dependencies:
+  wandhi_cdn:
+    specifier: ^1.0.0
+    version: 1.0.0
+
+packages:
+
+  /wandhi_cdn@1.0.0:
+    resolution: {integrity: sha512-eR4t5Rp2wXLIQoRIzFRNeYdpFOiea6rZyHXlGt7zXp/ryy2jzjnoBIKc9Ge61DKpSXybYeidjB3m5sLPvrYahw==}
+    dev: false

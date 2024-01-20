@@ -4,3 +4,5 @@
 ./idea
 .idea
 .DS_Store
+node_modules
+pnmp-lock.yaml
