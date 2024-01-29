@@ -1,6 +1,6 @@
 jks = [
     { url: "https://www.ckplayer.vip/jiexi/?url=", title: "接口:Ckplayer" },
-    { url: "https://jx.yparse.com/index.php?url=", title: "接口:云析" },
+    { url: "https://yparse.ik9.cc/index.php?url=", title: "接口:云析" },
     { url: "https://www.8090g.cn/?url=", title: "接口:8090" },
     { title: "ckplayer", url: " https://www.ckplayer.vip/jiexi/?url=" },
 
@@ -29,7 +29,6 @@ jks = [
     {title: "Player-JY",  url: "https://jx.playerjy.com/?url="},
     {title: "虾米1",  url: "https://jx.xmflv.com/?url="},
     {title: "虾米2",  url: "https://jx.xmflv.cc/?url="},
-    {title: "yparse", "type": "1,2", url: "https://jx.yparse.com/index.php?url="},
     {title: "m1907", "type": "1,2", url: "https://im1907.top/?jx="},
 
     {title: "8090",  url: "https://www.8090g.cn/?url="},
