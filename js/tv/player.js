@@ -31,7 +31,7 @@ jks = [
     {title: "虾米2",  url: "https://jx.xmflv.cc/?url="},
     {title: "m1907", "type": "1,2", url: "https://im1907.top/?jx="},
 
-    {title: "CK",  url: "https://www.ckplayer.vip/jiexi/?url="},
+    {title: "CK",  url: "https://jx.m3u8.tv/jiexi/?url="},
     {title: "8090",  url: "https://www.8090g.cn/?url="},
     {title: "qianqi",  url: "https://api.qianqi.net/vip/?url="},
     {title: "样图",  url: "https://jx.yangtu.top/?url="},
