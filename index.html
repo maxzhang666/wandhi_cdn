@@ -1,65 +1,47 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html lang="zh-CN">
 <head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<meta name="robots" content="noindex,follow" />
-	<title>玩的嗨静态资源加速</title>
-	<style type="text/css">
-		html {
-			background: #f1f1f1;
-		}
-		body {
-			background: #fff;
-			color: #444;
-			font-family: "Open Sans", sans-serif;
-			margin: 2em auto;
-			padding: 1em 2em;
-			max-width: 700px;
-			-webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.13);
-			box-shadow: 0 1px 3px rgba(0,0,0,0.13);
-		}
-		h1 {
-			clear: both;
-			color: #666;
-			font: 24px "Open Sans", sans-serif;
-			margin: 30px 0 0 0;
-			padding: 0;
-		}
-		hr {
-			margin-top: 20px;
-			margin-bottom: 20px;
-			border: 0;
-			border-top: 1px solid #dadada;
-		}
-		#error-page {
-			margin-top: 50px;
-			text-align: center;
-		}
-		#error-page p {
-			font-size: 14px;
-			line-height: 1.5;
-			margin: 10px 0;
-		}
-		ul li {
-			margin-bottom: 10px;
-			font-size: 14px ;
-		}
-		a {
-			color: #21759B;
-			text-decoration: none;
-		}
-		a:hover {
-			color: #D54E21;
-		}
-
-			</style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>玩的嗨静态资源加速</title>
+<meta name="description" content="为玩的嗨提供 CSS、JS、字体和图片的静态资源加速。">
+<meta name="theme-color" content="#0A1725">
+<meta name="robots" content="noindex,follow">
+<link rel="icon" href="img/globe.svg" type="image/svg+xml">
+<link rel="stylesheet" href="css/index.css">
 </head>
-<body id="error-page">
-	<h1>玩的嗨静态资源加速</h1>
-	<p>为玩的嗨提供CSS/JS/FONTS/IMAGES等静态资源加速</p>
-	<hr>
-	<p>返回Wandhi &raquo; <a href="http://www.wandhi.com/">http://www.wandhi.com/</a></p>
-	<hr>
-	<p>玩的嗨 All Right Reserved · <a href="http://www.beian.miit.gov.cn" rel="link" target="_blank">豫ICP备12008705号-1</a></p>
+<body>
+
+<div class="boot" aria-hidden="true">
+  <span class="boot__beam"></span>
+  <span class="boot__wash"></span>
+  <span class="boot__flash"></span>
+</div>
+
+<header class="nav">
+  <div class="wrap">
+    <a class="mark" href="https://www.wandhi.com/">
+      <img class="mark__globe" src="img/globe.svg" alt="" width="21" height="21">
+      <span class="mark__name">玩的嗨</span>
+      <span class="mark__latin">WANDHI CDN</span>
+    </a>
+  </div>
+</header>
+
+<main class="hero">
+  <canvas class="hero__canvas" id="lattice" aria-hidden="true"></canvas>
+
+  <div class="wrap hero__inner">
+    <h1 class="hero__title">玩的嗨静态资源加速</h1>
+    <p class="hero__lede">为玩的嗨提供 CSS、JS、字体、图片等静态资源加速</p>
+    <div class="hero__cta">
+      <button class="btn" type="button" data-copy-url="https://cdn.wandhi.com" aria-live="polite">复制引用地址</button>
+    </div>
+  </div>
+
+  <div class="wrap hero__base"><span>© 玩的嗨</span></div>
+</main>
+
+<script src="js/index.js" defer></script>
 </body>
 </html>
