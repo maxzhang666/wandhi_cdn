@@ -153,7 +153,10 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
   color:var(--ink-2);
   line-height:1.85;
 }
-.hero__cta{margin-top:clamp(24px,2.8vw,34px)}
+.hero__cta{
+  display:flex;flex-wrap:wrap;justify-content:center;
+  gap:12px;margin-top:clamp(24px,2.8vw,34px);
+}
 
 .hero__base{
   position:relative;z-index:2;
@@ -165,6 +168,7 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
 /* 文案在开机光效之后升起 */
 .hero__inner > *, .hero__base > *{animation:rise .84s var(--ease) both}
 .hero__inner > .hero__title{animation-delay:.94s}
+.hero__inner > .nf__code{animation-delay:.94s}
 .hero__inner > .hero__lede{animation-delay:1.08s}
 .hero__inner > .hero__cta{animation-delay:1.18s}
 .hero__base > *{animation-delay:1.36s}
@@ -181,11 +185,22 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
 .btn.is-done{background:var(--ice)}
 .btn:active{transform:translateY(1px)}
 
+/* ---------- 404 ---------- */
+.nf__code{
+  font-family:var(--font-title);
+  font-size:clamp(80px,15vw,208px);
+  font-weight:200;
+  line-height:1.1;
+  letter-spacing:.02em;
+  text-indent:.02em;   /* 抵消末位字距，居中不偏 */
+}
+
 /* ---------- 响应式 ---------- */
 @media (max-width:640px){
   :root{--nav:56px}
   .hero__title{font-size:clamp(24px,7.6vw,32px)}
   .hero__lede{font-size:13.5px}
+  .nf__code{font-size:clamp(88px,34vw,150px)}
   .mark__latin{display:none}
   .hero__canvas{
     -webkit-mask-image:radial-gradient(ellipse 88% 72% at 50% 50%,
