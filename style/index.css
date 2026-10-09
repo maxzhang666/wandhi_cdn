@@ -1,0 +1,203 @@
+/* 标题字：Noto Sans SC ExtraLight 子集，只保留本页用到的字形。
+   Noto Sans SC 采用 SIL Open Font License 1.1，可自托管与再分发。 */
+@font-face{
+  font-family:"Wandhi Title";
+  font-style:normal;
+  font-weight:100 300;
+  font-display:swap;
+  src:url("../fonts/wandhi-title.woff2") format("woff2");
+}
+:root{
+  color-scheme: dark;
+  --ground:#0A1725;
+  --hairline:#1B3247;
+  --hairline-2:#28455F;
+  --bone:#EFEAE1;
+  --ink-2:#9DB0C2;
+  --ink-3:#728CA4;
+  --brass:#E0B562;
+  --ice:#86D7E5;
+  --font-sans:"PingFang SC","HarmonyOS Sans SC","MiSans","Source Han Sans SC","Noto Sans CJK SC","Noto Sans SC","Microsoft YaHei",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --font-mono:ui-monospace,"SF Mono",Menlo,Consolas,"Liberation Mono","Courier New",monospace;
+  --font-title:"PingFang SC","HarmonyOS Sans SC","MiSans","Wandhi Title","Source Han Sans SC","Microsoft YaHei",system-ui,sans-serif;
+  --wrap:1220px;
+  --gutter:clamp(20px,4vw,40px);
+  --nav:64px;
+  --ease:cubic-bezier(.2,.7,.25,1);
+}
+
+*,*::before,*::after{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{
+  margin:0;
+  background:var(--ground);
+  color:var(--bone);
+  font-family:var(--font-sans);
+  font-size:16px;
+  font-weight:300;
+  line-height:1.75;
+  letter-spacing:.01em;
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+  overflow-x:hidden;
+}
+img,svg{display:block;max-width:100%}
+h1,p{margin:0}
+a{color:inherit;text-decoration:none}
+button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
+
+:focus-visible{outline:2px solid var(--brass);outline-offset:3px;border-radius:3px}
+.wrap{width:min(var(--wrap),100% - var(--gutter)*2);margin-inline:auto}
+
+/* ---------- 开机光效 ---------- */
+.boot{
+  position:fixed;inset:0;z-index:80;pointer-events:none;
+  background:var(--ground);
+  animation:boot-out .5s var(--ease) .74s both;
+}
+.boot__beam{
+  position:absolute;inset:0;
+  background:linear-gradient(180deg,
+    transparent 0%,
+    rgba(239,234,225,.08) 26%,
+    #fff 50%,
+    rgba(239,234,225,.08) 74%,
+    transparent 100%);
+  clip-path:inset(49.9% 0 49.9% 0);
+  animation:beam-open .46s cubic-bezier(.18,.86,.24,1) .1s both;
+}
+.boot__wash{
+  position:absolute;inset:0;opacity:0;
+  background:radial-gradient(135% 115% at 50% 50%,
+    #FFFFFF 0%,
+    #EDF8FB 42%,
+    #C3E6EE 72%,
+    #8FCFDE 100%);
+  animation:wash .54s var(--ease) .44s both;
+}
+.boot__flash{
+  position:absolute;inset:0;opacity:0;
+  background:radial-gradient(88% 66% at 50% 50%,
+    rgba(255,255,255,.95) 0%,
+    rgba(134,215,229,.34) 44%,
+    rgba(224,181,98,.12) 66%,
+    transparent 82%);
+  animation:flash-bloom .6s var(--ease) .5s both;
+}
+@keyframes beam-open{
+  0%{clip-path:inset(49.9% 0 49.9% 0)}
+  100%{clip-path:inset(0 0 0 0)}
+}
+@keyframes wash{
+  0%{opacity:0}
+  18%{opacity:.9}
+  52%{opacity:.78}
+  100%{opacity:0}
+}
+@keyframes flash-bloom{
+  0%{opacity:0}
+  22%{opacity:1}
+  100%{opacity:0}
+}
+@keyframes boot-out{
+  0%{opacity:1}
+  20%{opacity:.7}
+  32%{opacity:1}
+  58%{opacity:.45}
+  100%{opacity:0;visibility:hidden}
+}
+
+/* ---------- 顶栏 ---------- */
+.nav{height:var(--nav);display:flex;align-items:center}
+.mark{display:inline-flex;align-items:center;gap:11px;color:var(--bone)}
+.mark__globe{color:var(--brass);flex:none;transition:transform .5s var(--ease)}
+.mark:hover .mark__globe{transform:rotate(180deg)}
+.mark__name{font-size:15px;font-weight:400;letter-spacing:.1em}
+.mark__latin{
+  font-family:var(--font-mono);font-size:9.5px;letter-spacing:.2em;
+  color:var(--ink-3);padding-left:11px;border-left:1px solid var(--hairline-2);
+}
+
+/* ---------- 首屏 ---------- */
+.hero{
+  position:relative;overflow:hidden;
+  min-height:calc(100vh - var(--nav));
+  min-height:calc(100svh - var(--nav));
+  display:flex;flex-direction:column;
+}
+.hero__canvas{
+  position:absolute;inset:0;width:100%;height:100%;
+  pointer-events:none;
+  -webkit-mask-image:radial-gradient(ellipse 68% 62% at 50% 50%,
+    rgba(0,0,0,.04) 0%,rgba(0,0,0,.28) 46%,rgba(0,0,0,.78) 78%,#000 100%);
+  mask-image:radial-gradient(ellipse 68% 62% at 50% 50%,
+    rgba(0,0,0,.04) 0%,rgba(0,0,0,.28) 46%,rgba(0,0,0,.78) 78%,#000 100%);
+}
+.hero__inner{
+  position:relative;z-index:2;flex:1;
+  display:flex;flex-direction:column;align-items:center;justify-content:center;
+  text-align:center;padding-bottom:2vh;
+}
+
+.hero__title{
+  font-family:var(--font-title);
+  font-size:clamp(25px,4.4vw,56px);
+  line-height:1.3;
+  font-weight:200;
+  letter-spacing:.02em;
+}
+.hero__lede{
+  margin-top:clamp(16px,2vw,24px);
+  max-width:30em;
+  font-size:clamp(13.5px,1.05vw,15.5px);
+  color:var(--ink-2);
+  line-height:1.85;
+}
+.hero__cta{margin-top:clamp(24px,2.8vw,34px)}
+
+.hero__base{
+  position:relative;z-index:2;
+  display:flex;justify-content:center;
+  padding-bottom:clamp(18px,3vh,30px);
+  font-family:var(--font-mono);font-size:10.5px;letter-spacing:.02em;color:var(--ink-3);
+}
+
+/* 文案在开机光效之后升起 */
+.hero__inner > *, .hero__base > *{animation:rise .84s var(--ease) both}
+.hero__inner > .hero__title{animation-delay:.94s}
+.hero__inner > .hero__lede{animation-delay:1.08s}
+.hero__inner > .hero__cta{animation-delay:1.18s}
+.hero__base > *{animation-delay:1.36s}
+@keyframes rise{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+
+.btn{
+  display:inline-flex;align-items:center;justify-content:center;
+  padding:10px 20px;border-radius:7px;
+  font-size:13px;font-weight:500;letter-spacing:.06em;
+  background:var(--brass);color:#0A1725;
+  transition:background-color .22s var(--ease),transform .22s var(--ease);
+}
+.btn:hover{background:#EFC97A}
+.btn.is-done{background:var(--ice)}
+.btn:active{transform:translateY(1px)}
+
+/* ---------- 响应式 ---------- */
+@media (max-width:640px){
+  :root{--nav:56px}
+  .hero__title{font-size:clamp(24px,7.6vw,32px)}
+  .hero__lede{font-size:13.5px}
+  .mark__latin{display:none}
+  .hero__canvas{
+    -webkit-mask-image:radial-gradient(ellipse 88% 72% at 50% 50%,
+      rgba(0,0,0,.04) 0%,rgba(0,0,0,.3) 48%,rgba(0,0,0,.85) 82%,#000 100%);
+    mask-image:radial-gradient(ellipse 88% 72% at 50% 50%,
+      rgba(0,0,0,.04) 0%,rgba(0,0,0,.3) 48%,rgba(0,0,0,.85) 82%,#000 100%);
+  }
+}
+
+@media (prefers-reduced-motion: reduce){
+  .boot{display:none}
+  .hero__inner > *, .hero__base > *{animation:none}
+  .mark__globe{transition:none}
+  .btn{transition:none}
+}
