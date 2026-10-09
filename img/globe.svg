@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-label="全球边缘节点">
+  <g fill="none" stroke="#E0B562" stroke-width="1.25">
+    <circle cx="12" cy="12" r="9.2"/>
+    <ellipse cx="12" cy="12" rx="4.1" ry="9.2"/>
+  </g>
+  <path d="M3.1 8.9h17.8M3.1 15.1h17.8" fill="none" stroke="#E0B562"
+        stroke-width="1.25" stroke-linecap="round"/>
+  <circle cx="17.7" cy="7.3" r="1.6" fill="#E0B562"/>
+</svg>
